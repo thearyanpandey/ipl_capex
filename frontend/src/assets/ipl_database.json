@@ -1,0 +1,4706 @@
+[
+    {
+        "balls_faced": 191,
+        "batter": "A Ashish Reddy",
+        "strike_rate": 146.6,
+        "total_boundaries": 31,
+        "total_runs": 280
+    },
+    {
+        "balls_faced": 465,
+        "batter": "A Badoni",
+        "strike_rate": 136.13,
+        "total_boundaries": 70,
+        "total_runs": 633
+    },
+    {
+        "balls_faced": 7,
+        "batter": "A Chandila",
+        "strike_rate": 57.14,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 70,
+        "batter": "A Chopra",
+        "strike_rate": 75.71,
+        "total_boundaries": 7,
+        "total_runs": 53
+    },
+    {
+        "balls_faced": 20,
+        "batter": "A Choudhary",
+        "strike_rate": 125.0,
+        "total_boundaries": 2,
+        "total_runs": 25
+    },
+    {
+        "balls_faced": 5,
+        "batter": "A Dananjaya",
+        "strike_rate": 80.0,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 50,
+        "batter": "A Flintoff",
+        "strike_rate": 124.0,
+        "total_boundaries": 7,
+        "total_runs": 62
+    },
+    {
+        "balls_faced": 2,
+        "batter": "A Kamboj",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 45,
+        "batter": "A Kumble",
+        "strike_rate": 77.78,
+        "total_boundaries": 3,
+        "total_runs": 35
+    },
+    {
+        "balls_faced": 174,
+        "batter": "A Manohar",
+        "strike_rate": 132.76,
+        "total_boundaries": 31,
+        "total_runs": 231
+    },
+    {
+        "balls_faced": 408,
+        "batter": "A Mishra",
+        "strike_rate": 93.14,
+        "total_boundaries": 36,
+        "total_runs": 380
+    },
+    {
+        "balls_faced": 24,
+        "batter": "A Mithun",
+        "strike_rate": 141.67,
+        "total_boundaries": 5,
+        "total_runs": 34
+    },
+    {
+        "balls_faced": 22,
+        "batter": "A Mukund",
+        "strike_rate": 86.36,
+        "total_boundaries": 1,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 55,
+        "batter": "A Nehra",
+        "strike_rate": 70.91,
+        "total_boundaries": 4,
+        "total_runs": 39
+    },
+    {
+        "balls_faced": 48,
+        "batter": "A Nortje",
+        "strike_rate": 102.08,
+        "total_boundaries": 6,
+        "total_runs": 49
+    },
+    {
+        "balls_faced": 102,
+        "batter": "A Raghuvanshi",
+        "strike_rate": 159.8,
+        "total_boundaries": 24,
+        "total_runs": 163
+    },
+    {
+        "balls_faced": 9,
+        "batter": "A Singh",
+        "strike_rate": 22.22,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 734,
+        "batter": "A Symonds",
+        "strike_rate": 132.56,
+        "total_boundaries": 115,
+        "total_runs": 973
+    },
+    {
+        "balls_faced": 8,
+        "batter": "A Tomar",
+        "strike_rate": 50.0,
+        "total_boundaries": 1,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 7,
+        "batter": "A Uniyal",
+        "strike_rate": 57.14,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 24,
+        "batter": "A Zampa",
+        "strike_rate": 62.5,
+        "total_boundaries": 1,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 81,
+        "batter": "AA Bilakhia",
+        "strike_rate": 85.19,
+        "total_boundaries": 5,
+        "total_runs": 69
+    },
+    {
+        "balls_faced": 11,
+        "batter": "AA Chavan",
+        "strike_rate": 109.09,
+        "total_boundaries": 2,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 206,
+        "batter": "AA Jhunjhunwala",
+        "strike_rate": 105.34,
+        "total_boundaries": 24,
+        "total_runs": 217
+    },
+    {
+        "balls_faced": 8,
+        "batter": "AA Kulkarni",
+        "strike_rate": 112.5,
+        "total_boundaries": 2,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 10,
+        "batter": "AA Noffke",
+        "strike_rate": 90.0,
+        "total_boundaries": 1,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 147,
+        "batter": "AB Agarkar",
+        "strike_rate": 120.41,
+        "total_boundaries": 18,
+        "total_runs": 177
+    },
+    {
+        "balls_faced": 41,
+        "batter": "AB Barath",
+        "strike_rate": 102.44,
+        "total_boundaries": 6,
+        "total_runs": 42
+    },
+    {
+        "balls_faced": 46,
+        "batter": "AB Dinda",
+        "strike_rate": 56.52,
+        "total_boundaries": 2,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 96,
+        "batter": "AB McDonald",
+        "strike_rate": 128.13,
+        "total_boundaries": 13,
+        "total_runs": 123
+    },
+    {
+        "balls_faced": 3344,
+        "batter": "AB de Villiers",
+        "strike_rate": 153.95,
+        "total_boundaries": 662,
+        "total_runs": 5148
+    },
+    {
+        "balls_faced": 88,
+        "batter": "AC Blizzard",
+        "strike_rate": 136.36,
+        "total_boundaries": 23,
+        "total_runs": 120
+    },
+    {
+        "balls_faced": 1438,
+        "batter": "AC Gilchrist",
+        "strike_rate": 142.28,
+        "total_boundaries": 326,
+        "total_runs": 2046
+    },
+    {
+        "balls_faced": 19,
+        "batter": "AC Thomas",
+        "strike_rate": 105.26,
+        "total_boundaries": 2,
+        "total_runs": 20
+    },
+    {
+        "balls_faced": 137,
+        "batter": "AC Voges",
+        "strike_rate": 132.12,
+        "total_boundaries": 18,
+        "total_runs": 181
+    },
+    {
+        "balls_faced": 116,
+        "batter": "AD Hales",
+        "strike_rate": 126.72,
+        "total_boundaries": 19,
+        "total_runs": 147
+    },
+    {
+        "balls_faced": 77,
+        "batter": "AD Mascarenhas",
+        "strike_rate": 102.6,
+        "total_boundaries": 6,
+        "total_runs": 79
+    },
+    {
+        "balls_faced": 566,
+        "batter": "AD Mathews",
+        "strike_rate": 127.56,
+        "total_boundaries": 73,
+        "total_runs": 722
+    },
+    {
+        "balls_faced": 98,
+        "batter": "AD Nath",
+        "strike_rate": 91.84,
+        "total_boundaries": 9,
+        "total_runs": 90
+    },
+    {
+        "balls_faced": 1392,
+        "batter": "AD Russell",
+        "strike_rate": 177.08,
+        "total_boundaries": 376,
+        "total_runs": 2465
+    },
+    {
+        "balls_faced": 29,
+        "batter": "AF Milne",
+        "strike_rate": 79.31,
+        "total_boundaries": 1,
+        "total_runs": 23
+    },
+    {
+        "balls_faced": 14,
+        "batter": "AG Murtaza",
+        "strike_rate": 71.43,
+        "total_boundaries": 1,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 54,
+        "batter": "AG Paunikar",
+        "strike_rate": 88.89,
+        "total_boundaries": 9,
+        "total_runs": 48
+    },
+    {
+        "balls_faced": 1571,
+        "batter": "AJ Finch",
+        "strike_rate": 132.59,
+        "total_boundaries": 291,
+        "total_runs": 2083
+    },
+    {
+        "balls_faced": 10,
+        "batter": "AJ Hosein",
+        "strike_rate": 160.0,
+        "total_boundaries": 2,
+        "total_runs": 16
+    },
+    {
+        "balls_faced": 27,
+        "batter": "AJ Turner",
+        "strike_rate": 88.89,
+        "total_boundaries": 2,
+        "total_runs": 24
+    },
+    {
+        "balls_faced": 70,
+        "batter": "AJ Tye",
+        "strike_rate": 130.0,
+        "total_boundaries": 11,
+        "total_runs": 91
+    },
+    {
+        "balls_faced": 762,
+        "batter": "AK Markram",
+        "strike_rate": 130.58,
+        "total_boundaries": 108,
+        "total_runs": 995
+    },
+    {
+        "balls_faced": 352,
+        "batter": "AL Menaria",
+        "strike_rate": 112.22,
+        "total_boundaries": 41,
+        "total_runs": 395
+    },
+    {
+        "balls_faced": 551,
+        "batter": "AM Nayar",
+        "strike_rate": 120.51,
+        "total_boundaries": 74,
+        "total_runs": 664
+    },
+    {
+        "balls_faced": 3698,
+        "batter": "AM Rahane",
+        "strike_rate": 125.47,
+        "total_boundaries": 582,
+        "total_runs": 4640
+    },
+    {
+        "balls_faced": 25,
+        "batter": "AN Ahmed",
+        "strike_rate": 144.0,
+        "total_boundaries": 5,
+        "total_runs": 36
+    },
+    {
+        "balls_faced": 8,
+        "batter": "AN Ghosh",
+        "strike_rate": 87.5,
+        "total_boundaries": 1,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 22,
+        "batter": "AP Dole",
+        "strike_rate": 154.55,
+        "total_boundaries": 4,
+        "total_runs": 34
+    },
+    {
+        "balls_faced": 74,
+        "batter": "AP Majumdar",
+        "strike_rate": 117.57,
+        "total_boundaries": 9,
+        "total_runs": 87
+    },
+    {
+        "balls_faced": 267,
+        "batter": "AP Tare",
+        "strike_rate": 126.97,
+        "total_boundaries": 51,
+        "total_runs": 339
+    },
+    {
+        "balls_faced": 12,
+        "batter": "AR Bawne",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 1240,
+        "batter": "AR Patel",
+        "strike_rate": 132.5,
+        "total_boundaries": 185,
+        "total_runs": 1643
+    },
+    {
+        "balls_faced": 31,
+        "batter": "AS Joseph",
+        "strike_rate": 87.1,
+        "total_boundaries": 3,
+        "total_runs": 27
+    },
+    {
+        "balls_faced": 40,
+        "batter": "AS Rajpoot",
+        "strike_rate": 65.0,
+        "total_boundaries": 3,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 167,
+        "batter": "AS Raut",
+        "strike_rate": 116.17,
+        "total_boundaries": 20,
+        "total_runs": 194
+    },
+    {
+        "balls_faced": 23,
+        "batter": "AS Roy",
+        "strike_rate": 113.04,
+        "total_boundaries": 3,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 37,
+        "batter": "AS Yadav",
+        "strike_rate": 132.43,
+        "total_boundaries": 7,
+        "total_runs": 49
+    },
+    {
+        "balls_faced": 27,
+        "batter": "AT Carey",
+        "strike_rate": 118.52,
+        "total_boundaries": 1,
+        "total_runs": 32
+    },
+    {
+        "balls_faced": 3348,
+        "batter": "AT Rayudu",
+        "strike_rate": 129.18,
+        "total_boundaries": 529,
+        "total_runs": 4325
+    },
+    {
+        "balls_faced": 15,
+        "batter": "AU Rashid",
+        "strike_rate": 140.0,
+        "total_boundaries": 3,
+        "total_runs": 21
+    },
+    {
+        "balls_faced": 23,
+        "batter": "AUK Pathan",
+        "strike_rate": 169.57,
+        "total_boundaries": 7,
+        "total_runs": 39
+    },
+    {
+        "balls_faced": 1,
+        "batter": "Abdul Basith",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 388,
+        "batter": "Abdul Samad",
+        "strike_rate": 147.94,
+        "total_boundaries": 72,
+        "total_runs": 574
+    },
+    {
+        "balls_faced": 2,
+        "batter": "Abdur Razzak",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 871,
+        "batter": "Abhishek Sharma",
+        "strike_rate": 157.18,
+        "total_boundaries": 200,
+        "total_runs": 1369
+    },
+    {
+        "balls_faced": 234,
+        "batter": "Abishek Porel",
+        "strike_rate": 153.42,
+        "total_boundaries": 52,
+        "total_runs": 359
+    },
+    {
+        "balls_faced": 12,
+        "batter": "Akash Deep",
+        "strike_rate": 158.33,
+        "total_boundaries": 3,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 4,
+        "batter": "Akash Madhwal",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 102,
+        "batter": "Aman Hakim Khan",
+        "strike_rate": 112.75,
+        "total_boundaries": 14,
+        "total_runs": 115
+    },
+    {
+        "balls_faced": 66,
+        "batter": "Anirudh Singh",
+        "strike_rate": 95.45,
+        "total_boundaries": 7,
+        "total_runs": 63
+    },
+    {
+        "balls_faced": 67,
+        "batter": "Ankit Sharma",
+        "strike_rate": 129.85,
+        "total_boundaries": 11,
+        "total_runs": 87
+    },
+    {
+        "balls_faced": 7,
+        "batter": "Ankit Soni",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 115,
+        "batter": "Anmolpreet Singh",
+        "strike_rate": 120.87,
+        "total_boundaries": 22,
+        "total_runs": 139
+    },
+    {
+        "balls_faced": 258,
+        "batter": "Anuj Rawat",
+        "strike_rate": 123.26,
+        "total_boundaries": 40,
+        "total_runs": 318
+    },
+    {
+        "balls_faced": 43,
+        "batter": "Anureet Singh",
+        "strike_rate": 83.72,
+        "total_boundaries": 3,
+        "total_runs": 36
+    },
+    {
+        "balls_faced": 9,
+        "batter": "Arjun Tendulkar",
+        "strike_rate": 144.44,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 63,
+        "batter": "Arshad Khan",
+        "strike_rate": 152.38,
+        "total_boundaries": 11,
+        "total_runs": 96
+    },
+    {
+        "balls_faced": 4,
+        "batter": "Arshad Khan (2)",
+        "strike_rate": 125.0,
+        "total_boundaries": 1,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 39,
+        "batter": "Arshdeep Singh",
+        "strike_rate": 74.36,
+        "total_boundaries": 4,
+        "total_runs": 29
+    },
+    {
+        "balls_faced": 105,
+        "batter": "Ashutosh Sharma",
+        "strike_rate": 174.29,
+        "total_boundaries": 24,
+        "total_runs": 183
+    },
+    {
+        "balls_faced": 164,
+        "batter": "Atharva Taide",
+        "strike_rate": 150.61,
+        "total_boundaries": 35,
+        "total_runs": 247
+    },
+    {
+        "balls_faced": 24,
+        "batter": "Avesh Khan",
+        "strike_rate": 170.83,
+        "total_boundaries": 6,
+        "total_runs": 41
+    },
+    {
+        "balls_faced": 294,
+        "batter": "Azhar Mahmood",
+        "strike_rate": 131.97,
+        "total_boundaries": 52,
+        "total_runs": 388
+    },
+    {
+        "balls_faced": 33,
+        "batter": "Azmatullah Omarzai",
+        "strike_rate": 127.27,
+        "total_boundaries": 4,
+        "total_runs": 42
+    },
+    {
+        "balls_faced": 53,
+        "batter": "B Akhil",
+        "strike_rate": 143.4,
+        "total_boundaries": 10,
+        "total_runs": 76
+    },
+    {
+        "balls_faced": 247,
+        "batter": "B Chipli",
+        "strike_rate": 113.36,
+        "total_boundaries": 35,
+        "total_runs": 280
+    },
+    {
+        "balls_faced": 30,
+        "batter": "B Indrajith",
+        "strike_rate": 70.0,
+        "total_boundaries": 2,
+        "total_runs": 21
+    },
+    {
+        "balls_faced": 316,
+        "batter": "B Kumar",
+        "strike_rate": 96.84,
+        "total_boundaries": 33,
+        "total_runs": 306
+    },
+    {
+        "balls_faced": 13,
+        "batter": "B Laughlin",
+        "strike_rate": 38.46,
+        "total_boundaries": 0,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 94,
+        "batter": "B Lee",
+        "strike_rate": 131.91,
+        "total_boundaries": 16,
+        "total_runs": 124
+    },
+    {
+        "balls_faced": 727,
+        "batter": "B Sai Sudharsan",
+        "strike_rate": 140.03,
+        "total_boundaries": 125,
+        "total_runs": 1018
+    },
+    {
+        "balls_faced": 2,
+        "batter": "B Stanlake",
+        "strike_rate": 250.0,
+        "total_boundaries": 1,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 37,
+        "batter": "B Sumanth",
+        "strike_rate": 94.59,
+        "total_boundaries": 3,
+        "total_runs": 35
+    },
+    {
+        "balls_faced": 7,
+        "batter": "BA Bhatt",
+        "strike_rate": 85.71,
+        "total_boundaries": 1,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 686,
+        "batter": "BA Stokes",
+        "strike_rate": 136.15,
+        "total_boundaries": 113,
+        "total_runs": 934
+    },
+    {
+        "balls_faced": 6,
+        "batter": "BAW Mendis",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 2124,
+        "batter": "BB McCullum",
+        "strike_rate": 134.51,
+        "total_boundaries": 418,
+        "total_runs": 2857
+    },
+    {
+        "balls_faced": 110,
+        "batter": "BB Samantray",
+        "strike_rate": 113.64,
+        "total_boundaries": 15,
+        "total_runs": 125
+    },
+    {
+        "balls_faced": 12,
+        "batter": "BB Sran",
+        "strike_rate": 75.0,
+        "total_boundaries": 0,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 137,
+        "batter": "BCJ Cutting",
+        "strike_rate": 173.72,
+        "total_boundaries": 34,
+        "total_runs": 238
+    },
+    {
+        "balls_faced": 3,
+        "batter": "BE Hendricks",
+        "strike_rate": 33.33,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 11,
+        "batter": "BJ Haddin",
+        "strike_rate": 163.64,
+        "total_boundaries": 3,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 1099,
+        "batter": "BJ Hodge",
+        "strike_rate": 127.3,
+        "total_boundaries": 165,
+        "total_runs": 1399
+    },
+    {
+        "balls_faced": 137,
+        "batter": "BJ Rohrer",
+        "strike_rate": 140.88,
+        "total_boundaries": 26,
+        "total_runs": 193
+    },
+    {
+        "balls_faced": 27,
+        "batter": "BMAJ Mendis",
+        "strike_rate": 85.19,
+        "total_boundaries": 0,
+        "total_runs": 23
+    },
+    {
+        "balls_faced": 33,
+        "batter": "BR Dunk",
+        "strike_rate": 121.21,
+        "total_boundaries": 7,
+        "total_runs": 40
+    },
+    {
+        "balls_faced": 5,
+        "batter": "BR Sharath",
+        "strike_rate": 40.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 33,
+        "batter": "Basil Thampi",
+        "strike_rate": 96.97,
+        "total_boundaries": 2,
+        "total_runs": 32
+    },
+    {
+        "balls_faced": 121,
+        "batter": "Bipul Sharma",
+        "strike_rate": 154.55,
+        "total_boundaries": 20,
+        "total_runs": 187
+    },
+    {
+        "balls_faced": 452,
+        "batter": "C Green",
+        "strike_rate": 154.65,
+        "total_boundaries": 93,
+        "total_runs": 699
+    },
+    {
+        "balls_faced": 17,
+        "batter": "C Madan",
+        "strike_rate": 82.35,
+        "total_boundaries": 3,
+        "total_runs": 14
+    },
+    {
+        "balls_faced": 139,
+        "batter": "C Munro",
+        "strike_rate": 127.34,
+        "total_boundaries": 27,
+        "total_runs": 177
+    },
+    {
+        "balls_faced": 1,
+        "batter": "C Nanda",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 29,
+        "batter": "C Sakariya",
+        "strike_rate": 68.97,
+        "total_boundaries": 3,
+        "total_runs": 20
+    },
+    {
+        "balls_faced": 219,
+        "batter": "C de Grandhomme",
+        "strike_rate": 135.62,
+        "total_boundaries": 35,
+        "total_runs": 297
+    },
+    {
+        "balls_faced": 177,
+        "batter": "CA Ingram",
+        "strike_rate": 115.82,
+        "total_boundaries": 27,
+        "total_runs": 205
+    },
+    {
+        "balls_faced": 930,
+        "batter": "CA Lynn",
+        "strike_rate": 141.61,
+        "total_boundaries": 196,
+        "total_runs": 1317
+    },
+    {
+        "balls_faced": 381,
+        "batter": "CA Pujara",
+        "strike_rate": 102.36,
+        "total_boundaries": 54,
+        "total_runs": 390
+    },
+    {
+        "balls_faced": 3256,
+        "batter": "CH Gayle",
+        "strike_rate": 152.21,
+        "total_boundaries": 761,
+        "total_runs": 4956
+    },
+    {
+        "balls_faced": 393,
+        "batter": "CH Morris",
+        "strike_rate": 155.73,
+        "total_boundaries": 75,
+        "total_runs": 612
+    },
+    {
+        "balls_faced": 416,
+        "batter": "CJ Anderson",
+        "strike_rate": 129.33,
+        "total_boundaries": 71,
+        "total_runs": 538
+    },
+    {
+        "balls_faced": 116,
+        "batter": "CJ Ferguson",
+        "strike_rate": 84.48,
+        "total_boundaries": 9,
+        "total_runs": 98
+    },
+    {
+        "balls_faced": 74,
+        "batter": "CJ Jordan",
+        "strike_rate": 109.46,
+        "total_boundaries": 6,
+        "total_runs": 81
+    },
+    {
+        "balls_faced": 15,
+        "batter": "CJ McKay",
+        "strike_rate": 53.33,
+        "total_boundaries": 0,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 21,
+        "batter": "CK Kapugedera",
+        "strike_rate": 76.19,
+        "total_boundaries": 0,
+        "total_runs": 16
+    },
+    {
+        "balls_faced": 9,
+        "batter": "CK Langeveldt",
+        "strike_rate": 88.89,
+        "total_boundaries": 1,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 749,
+        "batter": "CL White",
+        "strike_rate": 128.44,
+        "total_boundaries": 112,
+        "total_runs": 962
+    },
+    {
+        "balls_faced": 140,
+        "batter": "CM Gautam",
+        "strike_rate": 120.71,
+        "total_boundaries": 23,
+        "total_runs": 169
+    },
+    {
+        "balls_faced": 107,
+        "batter": "CR Brathwaite",
+        "strike_rate": 168.22,
+        "total_boundaries": 26,
+        "total_runs": 180
+    },
+    {
+        "balls_faced": 77,
+        "batter": "CR Woakes",
+        "strike_rate": 101.3,
+        "total_boundaries": 9,
+        "total_runs": 78
+    },
+    {
+        "balls_faced": 3,
+        "batter": "CRD Fernando",
+        "strike_rate": 133.33,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 45,
+        "batter": "CV Varun",
+        "strike_rate": 55.56,
+        "total_boundaries": 2,
+        "total_runs": 25
+    },
+    {
+        "balls_faced": 172,
+        "batter": "D Brevis",
+        "strike_rate": 133.72,
+        "total_boundaries": 33,
+        "total_runs": 230
+    },
+    {
+        "balls_faced": 11,
+        "batter": "D Ferreira",
+        "strike_rate": 72.73,
+        "total_boundaries": 0,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 7,
+        "batter": "D Kalyankrishna",
+        "strike_rate": 42.86,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 1238,
+        "batter": "D Padikkal",
+        "strike_rate": 125.61,
+        "total_boundaries": 212,
+        "total_runs": 1555
+    },
+    {
+        "balls_faced": 28,
+        "batter": "D Pretorius",
+        "strike_rate": 157.14,
+        "total_boundaries": 6,
+        "total_runs": 44
+    },
+    {
+        "balls_faced": 24,
+        "batter": "D Salunkhe",
+        "strike_rate": 137.5,
+        "total_boundaries": 5,
+        "total_runs": 33
+    },
+    {
+        "balls_faced": 98,
+        "batter": "D Wiese",
+        "strike_rate": 150.0,
+        "total_boundaries": 19,
+        "total_runs": 147
+    },
+    {
+        "balls_faced": 13,
+        "batter": "D du Preez",
+        "strike_rate": 76.92,
+        "total_boundaries": 0,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 2043,
+        "batter": "DA Miller",
+        "strike_rate": 142.58,
+        "total_boundaries": 339,
+        "total_runs": 2913
+    },
+    {
+        "balls_faced": 4595,
+        "batter": "DA Warner",
+        "strike_rate": 142.26,
+        "total_boundaries": 894,
+        "total_runs": 6537
+    },
+    {
+        "balls_faced": 9,
+        "batter": "DAJ Bracewell",
+        "strike_rate": 133.33,
+        "total_boundaries": 1,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 250,
+        "batter": "DB Das",
+        "strike_rate": 121.6,
+        "total_boundaries": 39,
+        "total_runs": 304
+    },
+    {
+        "balls_faced": 304,
+        "batter": "DB Ravi Teja",
+        "strike_rate": 122.7,
+        "total_boundaries": 44,
+        "total_runs": 373
+    },
+    {
+        "balls_faced": 21,
+        "batter": "DE Bollinger",
+        "strike_rate": 100.0,
+        "total_boundaries": 2,
+        "total_runs": 21
+    },
+    {
+        "balls_faced": 12,
+        "batter": "DG Nalkande",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 126,
+        "batter": "DH Yagnik",
+        "strike_rate": 133.33,
+        "total_boundaries": 25,
+        "total_runs": 168
+    },
+    {
+        "balls_faced": 1169,
+        "batter": "DJ Bravo",
+        "strike_rate": 132.25,
+        "total_boundaries": 184,
+        "total_runs": 1546
+    },
+    {
+        "balls_faced": 99,
+        "batter": "DJ Harris",
+        "strike_rate": 112.12,
+        "total_boundaries": 16,
+        "total_runs": 111
+    },
+    {
+        "balls_faced": 1114,
+        "batter": "DJ Hooda",
+        "strike_rate": 130.61,
+        "total_boundaries": 155,
+        "total_runs": 1455
+    },
+    {
+        "balls_faced": 1050,
+        "batter": "DJ Hussey",
+        "strike_rate": 125.33,
+        "total_boundaries": 149,
+        "total_runs": 1316
+    },
+    {
+        "balls_faced": 92,
+        "batter": "DJ Jacobs",
+        "strike_rate": 100.0,
+        "total_boundaries": 14,
+        "total_runs": 92
+    },
+    {
+        "balls_faced": 25,
+        "batter": "DJ Malan",
+        "strike_rate": 104.0,
+        "total_boundaries": 2,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 265,
+        "batter": "DJ Mitchell",
+        "strike_rate": 132.45,
+        "total_boundaries": 38,
+        "total_runs": 351
+    },
+    {
+        "balls_faced": 3,
+        "batter": "DJ Muthuswami",
+        "strike_rate": 33.33,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 49,
+        "batter": "DJ Thornely",
+        "strike_rate": 79.59,
+        "total_boundaries": 4,
+        "total_runs": 39
+    },
+    {
+        "balls_faced": 60,
+        "batter": "DJ Willey",
+        "strike_rate": 88.33,
+        "total_boundaries": 7,
+        "total_runs": 53
+    },
+    {
+        "balls_faced": 232,
+        "batter": "DJG Sammy",
+        "strike_rate": 127.16,
+        "total_boundaries": 33,
+        "total_runs": 295
+    },
+    {
+        "balls_faced": 98,
+        "batter": "DJM Short",
+        "strike_rate": 117.35,
+        "total_boundaries": 16,
+        "total_runs": 115
+    },
+    {
+        "balls_faced": 57,
+        "batter": "DL Chahar",
+        "strike_rate": 140.35,
+        "total_boundaries": 8,
+        "total_runs": 80
+    },
+    {
+        "balls_faced": 103,
+        "batter": "DL Vettori",
+        "strike_rate": 117.48,
+        "total_boundaries": 13,
+        "total_runs": 121
+    },
+    {
+        "balls_faced": 5,
+        "batter": "DM Bravo",
+        "strike_rate": 120.0,
+        "total_boundaries": 1,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 7,
+        "batter": "DNT Zoysa",
+        "strike_rate": 157.14,
+        "total_boundaries": 1,
+        "total_runs": 11
+    },
+    {
+        "balls_faced": 635,
+        "batter": "DP Conway",
+        "strike_rate": 145.35,
+        "total_boundaries": 130,
+        "total_runs": 923
+    },
+    {
+        "balls_faced": 13,
+        "batter": "DP Nannes",
+        "strike_rate": 30.77,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 1,
+        "batter": "DP Vijaykumar",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 1430,
+        "batter": "DPMD Jayawardene",
+        "strike_rate": 126.29,
+        "total_boundaries": 240,
+        "total_runs": 1806
+    },
+    {
+        "balls_faced": 24,
+        "batter": "DR Martyn",
+        "strike_rate": 79.17,
+        "total_boundaries": 1,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 44,
+        "batter": "DR Sams",
+        "strike_rate": 100.0,
+        "total_boundaries": 4,
+        "total_runs": 44
+    },
+    {
+        "balls_faced": 17,
+        "batter": "DR Shorey",
+        "strike_rate": 76.47,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 1706,
+        "batter": "DR Smith",
+        "strike_rate": 139.45,
+        "total_boundaries": 361,
+        "total_runs": 2379
+    },
+    {
+        "balls_faced": 106,
+        "batter": "DS Kulkarni",
+        "strike_rate": 98.11,
+        "total_boundaries": 9,
+        "total_runs": 104
+    },
+    {
+        "balls_faced": 17,
+        "batter": "DS Lehmann",
+        "strike_rate": 105.88,
+        "total_boundaries": 3,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 388,
+        "batter": "DT Christian",
+        "strike_rate": 116.49,
+        "total_boundaries": 41,
+        "total_runs": 452
+    },
+    {
+        "balls_faced": 13,
+        "batter": "DT Patil",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 157,
+        "batter": "DW Steyn",
+        "strike_rate": 106.37,
+        "total_boundaries": 17,
+        "total_runs": 167
+    },
+    {
+        "balls_faced": 228,
+        "batter": "Dhruv Jurel",
+        "strike_rate": 152.19,
+        "total_boundaries": 45,
+        "total_runs": 347
+    },
+    {
+        "balls_faced": 469,
+        "batter": "E Lewis",
+        "strike_rate": 139.45,
+        "total_boundaries": 98,
+        "total_runs": 654
+    },
+    {
+        "balls_faced": 1113,
+        "batter": "EJG Morgan",
+        "strike_rate": 126.33,
+        "total_boundaries": 176,
+        "total_runs": 1406
+    },
+    {
+        "balls_faced": 13,
+        "batter": "ER Dwivedi",
+        "strike_rate": 184.62,
+        "total_boundaries": 4,
+        "total_runs": 24
+    },
+    {
+        "balls_faced": 13,
+        "batter": "F Behardien",
+        "strike_rate": 107.69,
+        "total_boundaries": 2,
+        "total_runs": 14
+    },
+    {
+        "balls_faced": 3300,
+        "batter": "F du Plessis",
+        "strike_rate": 138.36,
+        "total_boundaries": 588,
+        "total_runs": 4566
+    },
+    {
+        "balls_faced": 18,
+        "batter": "FA Allen",
+        "strike_rate": 72.22,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 5,
+        "batter": "FH Edwards",
+        "strike_rate": 80.0,
+        "total_boundaries": 0,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 167,
+        "batter": "FY Fazal",
+        "strike_rate": 109.58,
+        "total_boundaries": 23,
+        "total_runs": 183
+    },
+    {
+        "balls_faced": 13,
+        "batter": "Fazalhaq Farooqi",
+        "strike_rate": 23.08,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 20,
+        "batter": "G Coetzee",
+        "strike_rate": 70.0,
+        "total_boundaries": 1,
+        "total_runs": 14
+    },
+    {
+        "balls_faced": 3329,
+        "batter": "G Gambhir",
+        "strike_rate": 126.07,
+        "total_boundaries": 548,
+        "total_runs": 4197
+    },
+    {
+        "balls_faced": 22,
+        "batter": "GB Hogg",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 22
+    },
+    {
+        "balls_faced": 652,
+        "batter": "GC Smith",
+        "strike_rate": 112.12,
+        "total_boundaries": 101,
+        "total_runs": 731
+    },
+    {
+        "balls_faced": 5,
+        "batter": "GC Viljoen",
+        "strike_rate": 60.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 5,
+        "batter": "GD McGrath",
+        "strike_rate": 80.0,
+        "total_boundaries": 1,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 54,
+        "batter": "GD Phillips",
+        "strike_rate": 120.37,
+        "total_boundaries": 9,
+        "total_runs": 65
+    },
+    {
+        "balls_faced": 316,
+        "batter": "GH Vihari",
+        "strike_rate": 88.92,
+        "total_boundaries": 24,
+        "total_runs": 281
+    },
+    {
+        "balls_faced": 4,
+        "batter": "GHS Garton",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 530,
+        "batter": "GJ Bailey",
+        "strike_rate": 124.53,
+        "total_boundaries": 78,
+        "total_runs": 660
+    },
+    {
+        "balls_faced": 1712,
+        "batter": "GJ Maxwell",
+        "strike_rate": 161.45,
+        "total_boundaries": 391,
+        "total_runs": 2764
+    },
+    {
+        "balls_faced": 16,
+        "batter": "GR Napier",
+        "strike_rate": 93.75,
+        "total_boundaries": 1,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 15,
+        "batter": "Gulbadin Naib",
+        "strike_rate": 126.67,
+        "total_boundaries": 2,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 411,
+        "batter": "Gurkeerat Singh",
+        "strike_rate": 124.33,
+        "total_boundaries": 66,
+        "total_runs": 511
+    },
+    {
+        "balls_faced": 5,
+        "batter": "H Das",
+        "strike_rate": 40.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 580,
+        "batter": "H Klaasen",
+        "strike_rate": 170.17,
+        "total_boundaries": 120,
+        "total_runs": 987
+    },
+    {
+        "balls_faced": 152,
+        "batter": "HC Brook",
+        "strike_rate": 122.37,
+        "total_boundaries": 26,
+        "total_runs": 186
+    },
+    {
+        "balls_faced": 22,
+        "batter": "HE van der Dussen",
+        "strike_rate": 100.0,
+        "total_boundaries": 2,
+        "total_runs": 22
+    },
+    {
+        "balls_faced": 5,
+        "batter": "HF Gurney",
+        "strike_rate": 20.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 781,
+        "batter": "HH Gibbs",
+        "strike_rate": 113.44,
+        "total_boundaries": 114,
+        "total_runs": 886
+    },
+    {
+        "balls_faced": 1707,
+        "batter": "HH Pandya",
+        "strike_rate": 147.69,
+        "total_boundaries": 325,
+        "total_runs": 2521
+    },
+    {
+        "balls_faced": 397,
+        "batter": "HM Amla",
+        "strike_rate": 144.84,
+        "total_boundaries": 81,
+        "total_runs": 575
+    },
+    {
+        "balls_faced": 63,
+        "batter": "HR Shokeen",
+        "strike_rate": 104.76,
+        "total_boundaries": 9,
+        "total_runs": 66
+    },
+    {
+        "balls_faced": 200,
+        "batter": "HV Patel",
+        "strike_rate": 124.5,
+        "total_boundaries": 31,
+        "total_runs": 249
+    },
+    {
+        "balls_faced": 584,
+        "batter": "Harbhajan Singh",
+        "strike_rate": 141.1,
+        "total_boundaries": 119,
+        "total_runs": 824
+    },
+    {
+        "balls_faced": 12,
+        "batter": "Harmeet Singh",
+        "strike_rate": 150.0,
+        "total_boundaries": 3,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 182,
+        "batter": "Harpreet Brar",
+        "strike_rate": 128.02,
+        "total_boundaries": 28,
+        "total_runs": 233
+    },
+    {
+        "balls_faced": 115,
+        "batter": "Harpreet Singh",
+        "strike_rate": 103.48,
+        "total_boundaries": 12,
+        "total_runs": 119
+    },
+    {
+        "balls_faced": 3,
+        "batter": "Harshit Rana",
+        "strike_rate": 66.67,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 4,
+        "batter": "I Malhotra",
+        "strike_rate": 175.0,
+        "total_boundaries": 1,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 67,
+        "batter": "I Sharma",
+        "strike_rate": 85.07,
+        "total_boundaries": 6,
+        "total_runs": 57
+    },
+    {
+        "balls_faced": 11,
+        "batter": "I Udana",
+        "strike_rate": 136.36,
+        "total_boundaries": 2,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 2,
+        "batter": "IC Pandey",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 915,
+        "batter": "IK Pathan",
+        "strike_rate": 125.57,
+        "total_boundaries": 126,
+        "total_runs": 1149
+    },
+    {
+        "balls_faced": 95,
+        "batter": "IR Jaggi",
+        "strike_rate": 80.0,
+        "total_boundaries": 6,
+        "total_runs": 76
+    },
+    {
+        "balls_faced": 17,
+        "batter": "IS Sodhi",
+        "strike_rate": 41.18,
+        "total_boundaries": 0,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 36,
+        "batter": "Imran Tahir",
+        "strike_rate": 91.67,
+        "total_boundaries": 5,
+        "total_runs": 33
+    },
+    {
+        "balls_faced": 77,
+        "batter": "Iqbal Abdulla",
+        "strike_rate": 112.99,
+        "total_boundaries": 10,
+        "total_runs": 87
+    },
+    {
+        "balls_faced": 1914,
+        "batter": "Ishan Kishan",
+        "strike_rate": 137.67,
+        "total_boundaries": 373,
+        "total_runs": 2635
+    },
+    {
+        "balls_faced": 22,
+        "batter": "J Arunkumar",
+        "strike_rate": 104.55,
+        "total_boundaries": 5,
+        "total_runs": 23
+    },
+    {
+        "balls_faced": 351,
+        "batter": "J Botha",
+        "strike_rate": 116.24,
+        "total_boundaries": 44,
+        "total_runs": 408
+    },
+    {
+        "balls_faced": 136,
+        "batter": "J Fraser-McGurk",
+        "strike_rate": 238.24,
+        "total_boundaries": 59,
+        "total_runs": 324
+    },
+    {
+        "balls_faced": 57,
+        "batter": "J Suchith",
+        "strike_rate": 122.81,
+        "total_boundaries": 9,
+        "total_runs": 70
+    },
+    {
+        "balls_faced": 26,
+        "batter": "J Syed Mohammad",
+        "strike_rate": 111.54,
+        "total_boundaries": 4,
+        "total_runs": 29
+    },
+    {
+        "balls_faced": 12,
+        "batter": "J Theron",
+        "strike_rate": 83.33,
+        "total_boundaries": 1,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 36,
+        "batter": "J Yadav",
+        "strike_rate": 111.11,
+        "total_boundaries": 3,
+        "total_runs": 40
+    },
+    {
+        "balls_faced": 668,
+        "batter": "JA Morkel",
+        "strike_rate": 144.76,
+        "total_boundaries": 115,
+        "total_runs": 967
+    },
+    {
+        "balls_faced": 26,
+        "batter": "JA Richardson",
+        "strike_rate": 65.38,
+        "total_boundaries": 2,
+        "total_runs": 17
+    },
+    {
+        "balls_faced": 123,
+        "batter": "JC Archer",
+        "strike_rate": 151.22,
+        "total_boundaries": 23,
+        "total_runs": 186
+    },
+    {
+        "balls_faced": 2373,
+        "batter": "JC Buttler",
+        "strike_rate": 149.98,
+        "total_boundaries": 513,
+        "total_runs": 3559
+    },
+    {
+        "balls_faced": 444,
+        "batter": "JD Ryder",
+        "strike_rate": 134.23,
+        "total_boundaries": 86,
+        "total_runs": 596
+    },
+    {
+        "balls_faced": 161,
+        "batter": "JD Unadkat",
+        "strike_rate": 122.36,
+        "total_boundaries": 23,
+        "total_runs": 197
+    },
+    {
+        "balls_faced": 106,
+        "batter": "JDP Oram",
+        "strike_rate": 100.0,
+        "total_boundaries": 11,
+        "total_runs": 106
+    },
+    {
+        "balls_faced": 92,
+        "batter": "JDS Neesham",
+        "strike_rate": 100.0,
+        "total_boundaries": 8,
+        "total_runs": 92
+    },
+    {
+        "balls_faced": 15,
+        "batter": "JE Root",
+        "strike_rate": 66.67,
+        "total_boundaries": 1,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 3,
+        "batter": "JE Taylor",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 294,
+        "batter": "JEC Franklin",
+        "strike_rate": 111.22,
+        "total_boundaries": 34,
+        "total_runs": 327
+    },
+    {
+        "balls_faced": 2182,
+        "batter": "JH Kallis",
+        "strike_rate": 110.86,
+        "total_boundaries": 298,
+        "total_runs": 2419
+    },
+    {
+        "balls_faced": 76,
+        "batter": "JJ Bumrah",
+        "strike_rate": 89.47,
+        "total_boundaries": 6,
+        "total_runs": 68
+    },
+    {
+        "balls_faced": 433,
+        "batter": "JJ Roy",
+        "strike_rate": 141.8,
+        "total_boundaries": 96,
+        "total_runs": 614
+    },
+    {
+        "balls_faced": 16,
+        "batter": "JJ van der Wath",
+        "strike_rate": 112.5,
+        "total_boundaries": 2,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 1,
+        "batter": "JL Denly",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 13,
+        "batter": "JL Pattinson",
+        "strike_rate": 115.38,
+        "total_boundaries": 2,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 1079,
+        "batter": "JM Bairstow",
+        "strike_rate": 147.08,
+        "total_boundaries": 235,
+        "total_runs": 1587
+    },
+    {
+        "balls_faced": 24,
+        "batter": "JM Kemp",
+        "strike_rate": 108.33,
+        "total_boundaries": 2,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 476,
+        "batter": "JM Sharma",
+        "strike_rate": 151.89,
+        "total_boundaries": 97,
+        "total_runs": 723
+    },
+    {
+        "balls_faced": 206,
+        "batter": "JO Holder",
+        "strike_rate": 125.73,
+        "total_boundaries": 31,
+        "total_runs": 259
+    },
+    {
+        "balls_faced": 9,
+        "batter": "JP Behrendorff",
+        "strike_rate": 66.67,
+        "total_boundaries": 0,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 1595,
+        "batter": "JP Duminy",
+        "strike_rate": 127.02,
+        "total_boundaries": 205,
+        "total_runs": 2026
+    },
+    {
+        "balls_faced": 379,
+        "batter": "JP Faulkner",
+        "strike_rate": 138.26,
+        "total_boundaries": 59,
+        "total_runs": 524
+    },
+    {
+        "balls_faced": 6,
+        "batter": "JPR Scantlebury-Searles",
+        "strike_rate": 133.33,
+        "total_boundaries": 1,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 28,
+        "batter": "JR Hazlewood",
+        "strike_rate": 67.86,
+        "total_boundaries": 1,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 304,
+        "batter": "JR Hopes",
+        "strike_rate": 137.17,
+        "total_boundaries": 60,
+        "total_runs": 417
+    },
+    {
+        "balls_faced": 76,
+        "batter": "JR Philippe",
+        "strike_rate": 102.63,
+        "total_boundaries": 10,
+        "total_runs": 78
+    },
+    {
+        "balls_faced": 11,
+        "batter": "Jaskaran Singh",
+        "strike_rate": 72.73,
+        "total_boundaries": 0,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 30,
+        "batter": "Joginder Sharma",
+        "strike_rate": 120.0,
+        "total_boundaries": 3,
+        "total_runs": 36
+    },
+    {
+        "balls_faced": 223,
+        "batter": "K Goel",
+        "strike_rate": 97.76,
+        "total_boundaries": 26,
+        "total_runs": 218
+    },
+    {
+        "balls_faced": 145,
+        "batter": "K Gowtham",
+        "strike_rate": 170.34,
+        "total_boundaries": 32,
+        "total_runs": 247
+    },
+    {
+        "balls_faced": 11,
+        "batter": "K Kartikeya",
+        "strike_rate": 81.82,
+        "total_boundaries": 1,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 188,
+        "batter": "K Rabada",
+        "strike_rate": 109.57,
+        "total_boundaries": 24,
+        "total_runs": 206
+    },
+    {
+        "balls_faced": 9,
+        "batter": "K Upadhyay",
+        "strike_rate": 133.33,
+        "total_boundaries": 1,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 4,
+        "batter": "K Yadav",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 51,
+        "batter": "KA Jamieson",
+        "strike_rate": 127.45,
+        "total_boundaries": 8,
+        "total_runs": 65
+    },
+    {
+        "balls_faced": 2,
+        "batter": "KA Maharaj",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 2260,
+        "batter": "KA Pollard",
+        "strike_rate": 150.93,
+        "total_boundaries": 441,
+        "total_runs": 3411
+    },
+    {
+        "balls_faced": 9,
+        "batter": "KAJ Roach",
+        "strike_rate": 111.11,
+        "total_boundaries": 1,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 46,
+        "batter": "KB Arun Karthik",
+        "strike_rate": 110.87,
+        "total_boundaries": 5,
+        "total_runs": 51
+    },
+    {
+        "balls_faced": 21,
+        "batter": "KC Cariappa",
+        "strike_rate": 114.29,
+        "total_boundaries": 2,
+        "total_runs": 24
+    },
+    {
+        "balls_faced": 1354,
+        "batter": "KC Sangakkara",
+        "strike_rate": 124.08,
+        "total_boundaries": 221,
+        "total_runs": 1680
+    },
+    {
+        "balls_faced": 3502,
+        "batter": "KD Karthik",
+        "strike_rate": 137.75,
+        "total_boundaries": 623,
+        "total_runs": 4824
+    },
+    {
+        "balls_faced": 1209,
+        "batter": "KH Pandya",
+        "strike_rate": 135.9,
+        "total_boundaries": 204,
+        "total_runs": 1643
+    },
+    {
+        "balls_faced": 8,
+        "batter": "KJ Abbott",
+        "strike_rate": 162.5,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 7,
+        "batter": "KK Ahmed",
+        "strike_rate": 14.29,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 66,
+        "batter": "KK Cooper",
+        "strike_rate": 174.24,
+        "total_boundaries": 17,
+        "total_runs": 115
+    },
+    {
+        "balls_faced": 1148,
+        "batter": "KK Nair",
+        "strike_rate": 129.88,
+        "total_boundaries": 199,
+        "total_runs": 1491
+    },
+    {
+        "balls_faced": 33,
+        "batter": "KL Nagarkoti",
+        "strike_rate": 66.67,
+        "total_boundaries": 1,
+        "total_runs": 22
+    },
+    {
+        "balls_faced": 3428,
+        "batter": "KL Rahul",
+        "strike_rate": 136.52,
+        "total_boundaries": 586,
+        "total_runs": 4680
+    },
+    {
+        "balls_faced": 2,
+        "batter": "KM Asif",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 953,
+        "batter": "KM Jadhav",
+        "strike_rate": 124.97,
+        "total_boundaries": 140,
+        "total_runs": 1191
+    },
+    {
+        "balls_faced": 22,
+        "batter": "KMA Paul",
+        "strike_rate": 81.82,
+        "total_boundaries": 2,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 2,
+        "batter": "KMDN Kulasekara",
+        "strike_rate": 250.0,
+        "total_boundaries": 1,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 3,
+        "batter": "KP Appanna",
+        "strike_rate": 66.67,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 724,
+        "batter": "KP Pietersen",
+        "strike_rate": 138.12,
+        "total_boundaries": 131,
+        "total_runs": 1000
+    },
+    {
+        "balls_faced": 253,
+        "batter": "KR Mayers",
+        "strike_rate": 147.43,
+        "total_boundaries": 59,
+        "total_runs": 373
+    },
+    {
+        "balls_faced": 3,
+        "batter": "KR Sen",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 158,
+        "batter": "KS Bharat",
+        "strike_rate": 125.32,
+        "total_boundaries": 20,
+        "total_runs": 198
+    },
+    {
+        "balls_faced": 25,
+        "batter": "KS Sharma",
+        "strike_rate": 64.0,
+        "total_boundaries": 1,
+        "total_runs": 16
+    },
+    {
+        "balls_faced": 1667,
+        "batter": "KS Williamson",
+        "strike_rate": 127.65,
+        "total_boundaries": 251,
+        "total_runs": 2128
+    },
+    {
+        "balls_faced": 282,
+        "batter": "KV Sharma",
+        "strike_rate": 124.47,
+        "total_boundaries": 37,
+        "total_runs": 351
+    },
+    {
+        "balls_faced": 39,
+        "batter": "KW Richardson",
+        "strike_rate": 92.31,
+        "total_boundaries": 3,
+        "total_runs": 36
+    },
+    {
+        "balls_faced": 75,
+        "batter": "Kamran Akmal",
+        "strike_rate": 165.33,
+        "total_boundaries": 20,
+        "total_runs": 124
+    },
+    {
+        "balls_faced": 5,
+        "batter": "Kamran Khan",
+        "strike_rate": 60.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 17,
+        "batter": "Karanveer Singh",
+        "strike_rate": 70.59,
+        "total_boundaries": 1,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 15,
+        "batter": "Kartik Tyagi",
+        "strike_rate": 86.67,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 212,
+        "batter": "Kuldeep Yadav",
+        "strike_rate": 86.32,
+        "total_boundaries": 19,
+        "total_runs": 183
+    },
+    {
+        "balls_faced": 7,
+        "batter": "Kumar Kushagra",
+        "strike_rate": 42.86,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 2,
+        "batter": "L Ablish",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 46,
+        "batter": "L Balaji",
+        "strike_rate": 78.26,
+        "total_boundaries": 3,
+        "total_runs": 36
+    },
+    {
+        "balls_faced": 34,
+        "batter": "L Ronchi",
+        "strike_rate": 100.0,
+        "total_boundaries": 7,
+        "total_runs": 34
+    },
+    {
+        "balls_faced": 3,
+        "batter": "L Wood",
+        "strike_rate": 300.0,
+        "total_boundaries": 1,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 65,
+        "batter": "LA Carseldine",
+        "strike_rate": 123.08,
+        "total_boundaries": 11,
+        "total_runs": 80
+    },
+    {
+        "balls_faced": 233,
+        "batter": "LA Pomersbach",
+        "strike_rate": 129.18,
+        "total_boundaries": 38,
+        "total_runs": 301
+    },
+    {
+        "balls_faced": 2,
+        "batter": "LB Williams",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 3,
+        "batter": "LE Plunkett",
+        "strike_rate": 33.33,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 44,
+        "batter": "LH Ferguson",
+        "strike_rate": 145.45,
+        "total_boundaries": 7,
+        "total_runs": 64
+    },
+    {
+        "balls_faced": 59,
+        "batter": "LJ Wright",
+        "strike_rate": 172.88,
+        "total_boundaries": 18,
+        "total_runs": 102
+    },
+    {
+        "balls_faced": 835,
+        "batter": "LMP Simmons",
+        "strike_rate": 129.22,
+        "total_boundaries": 153,
+        "total_runs": 1079
+    },
+    {
+        "balls_faced": 24,
+        "batter": "LPC Silva",
+        "strike_rate": 166.67,
+        "total_boundaries": 6,
+        "total_runs": 40
+    },
+    {
+        "balls_faced": 336,
+        "batter": "LR Shukla",
+        "strike_rate": 120.54,
+        "total_boundaries": 49,
+        "total_runs": 405
+    },
+    {
+        "balls_faced": 794,
+        "batter": "LRPL Taylor",
+        "strike_rate": 127.2,
+        "total_boundaries": 111,
+        "total_runs": 1010
+    },
+    {
+        "balls_faced": 559,
+        "batter": "LS Livingstone",
+        "strike_rate": 165.12,
+        "total_boundaries": 129,
+        "total_runs": 923
+    },
+    {
+        "balls_faced": 277,
+        "batter": "Lalit Yadav",
+        "strike_rate": 106.14,
+        "total_boundaries": 32,
+        "total_runs": 294
+    },
+    {
+        "balls_faced": 4,
+        "batter": "Liton Das",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 50,
+        "batter": "M Ashwin",
+        "strike_rate": 70.0,
+        "total_boundaries": 3,
+        "total_runs": 35
+    },
+    {
+        "balls_faced": 62,
+        "batter": "M Jansen",
+        "strike_rate": 106.45,
+        "total_boundaries": 7,
+        "total_runs": 66
+    },
+    {
+        "balls_faced": 244,
+        "batter": "M Kaif",
+        "strike_rate": 106.15,
+        "total_boundaries": 28,
+        "total_runs": 259
+    },
+    {
+        "balls_faced": 105,
+        "batter": "M Kartik",
+        "strike_rate": 106.67,
+        "total_boundaries": 8,
+        "total_runs": 112
+    },
+    {
+        "balls_faced": 74,
+        "batter": "M Klinger",
+        "strike_rate": 97.3,
+        "total_boundaries": 9,
+        "total_runs": 72
+    },
+    {
+        "balls_faced": 463,
+        "batter": "M Manhas",
+        "strike_rate": 111.02,
+        "total_boundaries": 53,
+        "total_runs": 514
+    },
+    {
+        "balls_faced": 38,
+        "batter": "M Markande",
+        "strike_rate": 126.32,
+        "total_boundaries": 6,
+        "total_runs": 48
+    },
+    {
+        "balls_faced": 89,
+        "batter": "M Morkel",
+        "strike_rate": 137.08,
+        "total_boundaries": 15,
+        "total_runs": 122
+    },
+    {
+        "balls_faced": 28,
+        "batter": "M Muralitharan",
+        "strike_rate": 71.43,
+        "total_boundaries": 1,
+        "total_runs": 20
+    },
+    {
+        "balls_faced": 18,
+        "batter": "M Ntini",
+        "strike_rate": 61.11,
+        "total_boundaries": 2,
+        "total_runs": 11
+    },
+    {
+        "balls_faced": 24,
+        "batter": "M Prasidh Krishna",
+        "strike_rate": 37.5,
+        "total_boundaries": 0,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 66,
+        "batter": "M Rawat",
+        "strike_rate": 83.33,
+        "total_boundaries": 5,
+        "total_runs": 55
+    },
+    {
+        "balls_faced": 385,
+        "batter": "M Shahrukh Khan",
+        "strike_rate": 143.64,
+        "total_boundaries": 72,
+        "total_runs": 553
+    },
+    {
+        "balls_faced": 6,
+        "batter": "M Theekshana",
+        "strike_rate": 116.67,
+        "total_boundaries": 1,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 2114,
+        "batter": "M Vijay",
+        "strike_rate": 123.89,
+        "total_boundaries": 338,
+        "total_runs": 2619
+    },
+    {
+        "balls_faced": 815,
+        "batter": "M Vohra",
+        "strike_rate": 132.88,
+        "total_boundaries": 147,
+        "total_runs": 1083
+    },
+    {
+        "balls_faced": 2,
+        "batter": "M de Lange",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 1960,
+        "batter": "MA Agarwal",
+        "strike_rate": 135.26,
+        "total_boundaries": 360,
+        "total_runs": 2651
+    },
+    {
+        "balls_faced": 19,
+        "batter": "MA Khote",
+        "strike_rate": 126.32,
+        "total_boundaries": 3,
+        "total_runs": 24
+    },
+    {
+        "balls_faced": 104,
+        "batter": "MA Starc",
+        "strike_rate": 100.96,
+        "total_boundaries": 11,
+        "total_runs": 105
+    },
+    {
+        "balls_faced": 8,
+        "batter": "MA Wood",
+        "strike_rate": 150.0,
+        "total_boundaries": 2,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 772,
+        "batter": "MC Henriques",
+        "strike_rate": 129.02,
+        "total_boundaries": 114,
+        "total_runs": 996
+    },
+    {
+        "balls_faced": 125,
+        "batter": "MC Juneja",
+        "strike_rate": 100.0,
+        "total_boundaries": 12,
+        "total_runs": 125
+    },
+    {
+        "balls_faced": 202,
+        "batter": "MD Mishra",
+        "strike_rate": 116.34,
+        "total_boundaries": 32,
+        "total_runs": 235
+    },
+    {
+        "balls_faced": 26,
+        "batter": "MD Shanaka",
+        "strike_rate": 100.0,
+        "total_boundaries": 3,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 12,
+        "batter": "MDKJ Perera",
+        "strike_rate": 116.67,
+        "total_boundaries": 3,
+        "total_runs": 14
+    },
+    {
+        "balls_faced": 1576,
+        "batter": "MEK Hussey",
+        "strike_rate": 125.38,
+        "total_boundaries": 250,
+        "total_runs": 1976
+    },
+    {
+        "balls_faced": 120,
+        "batter": "MF Maharoof",
+        "strike_rate": 147.5,
+        "total_boundaries": 21,
+        "total_runs": 177
+    },
+    {
+        "balls_faced": 44,
+        "batter": "MG Bracewell",
+        "strike_rate": 131.82,
+        "total_boundaries": 7,
+        "total_runs": 58
+    },
+    {
+        "balls_faced": 156,
+        "batter": "MG Johnson",
+        "strike_rate": 106.41,
+        "total_boundaries": 17,
+        "total_runs": 166
+    },
+    {
+        "balls_faced": 91,
+        "batter": "MJ Clarke",
+        "strike_rate": 107.69,
+        "total_boundaries": 12,
+        "total_runs": 98
+    },
+    {
+        "balls_faced": 195,
+        "batter": "MJ Guptill",
+        "strike_rate": 135.9,
+        "total_boundaries": 38,
+        "total_runs": 265
+    },
+    {
+        "balls_faced": 185,
+        "batter": "MJ Lumb",
+        "strike_rate": 150.27,
+        "total_boundaries": 51,
+        "total_runs": 278
+    },
+    {
+        "balls_faced": 67,
+        "batter": "MJ McClenaghan",
+        "strike_rate": 125.37,
+        "total_boundaries": 12,
+        "total_runs": 84
+    },
+    {
+        "balls_faced": 68,
+        "batter": "MJ Santner",
+        "strike_rate": 101.47,
+        "total_boundaries": 7,
+        "total_runs": 69
+    },
+    {
+        "balls_faced": 2,
+        "batter": "MJ Suthar",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 358,
+        "batter": "MK Lomror",
+        "strike_rate": 146.93,
+        "total_boundaries": 63,
+        "total_runs": 526
+    },
+    {
+        "balls_faced": 3144,
+        "batter": "MK Pandey",
+        "strike_rate": 122.14,
+        "total_boundaries": 443,
+        "total_runs": 3840
+    },
+    {
+        "balls_faced": 1420,
+        "batter": "MK Tiwary",
+        "strike_rate": 118.66,
+        "total_boundaries": 194,
+        "total_runs": 1685
+    },
+    {
+        "balls_faced": 775,
+        "batter": "ML Hayden",
+        "strike_rate": 141.42,
+        "total_boundaries": 163,
+        "total_runs": 1096
+    },
+    {
+        "balls_faced": 801,
+        "batter": "MM Ali",
+        "strike_rate": 144.82,
+        "total_boundaries": 162,
+        "total_runs": 1160
+    },
+    {
+        "balls_faced": 40,
+        "batter": "MM Patel",
+        "strike_rate": 97.5,
+        "total_boundaries": 5,
+        "total_runs": 39
+    },
+    {
+        "balls_faced": 129,
+        "batter": "MM Sharma",
+        "strike_rate": 96.12,
+        "total_boundaries": 13,
+        "total_runs": 124
+    },
+    {
+        "balls_faced": 163,
+        "batter": "MN Samuels",
+        "strike_rate": 98.77,
+        "total_boundaries": 16,
+        "total_runs": 161
+    },
+    {
+        "balls_faced": 127,
+        "batter": "MN van Wyk",
+        "strike_rate": 128.35,
+        "total_boundaries": 19,
+        "total_runs": 163
+    },
+    {
+        "balls_faced": 1289,
+        "batter": "MP Stoinis",
+        "strike_rate": 143.99,
+        "total_boundaries": 239,
+        "total_runs": 1856
+    },
+    {
+        "balls_faced": 511,
+        "batter": "MR Marsh",
+        "strike_rate": 130.14,
+        "total_boundaries": 86,
+        "total_runs": 665
+    },
+    {
+        "balls_faced": 676,
+        "batter": "MS Bisla",
+        "strike_rate": 117.46,
+        "total_boundaries": 115,
+        "total_runs": 794
+    },
+    {
+        "balls_faced": 3715,
+        "batter": "MS Dhoni",
+        "strike_rate": 140.32,
+        "total_boundaries": 612,
+        "total_runs": 5213
+    },
+    {
+        "balls_faced": 69,
+        "batter": "MS Gony",
+        "strike_rate": 143.48,
+        "total_boundaries": 14,
+        "total_runs": 99
+    },
+    {
+        "balls_faced": 172,
+        "batter": "MS Wade",
+        "strike_rate": 106.4,
+        "total_boundaries": 25,
+        "total_runs": 183
+    },
+    {
+        "balls_faced": 299,
+        "batter": "MV Boucher",
+        "strike_rate": 129.43,
+        "total_boundaries": 44,
+        "total_runs": 387
+    },
+    {
+        "balls_faced": 90,
+        "batter": "MW Short",
+        "strike_rate": 130.0,
+        "total_boundaries": 19,
+        "total_runs": 117
+    },
+    {
+        "balls_faced": 1359,
+        "batter": "Mandeep Singh",
+        "strike_rate": 125.46,
+        "total_boundaries": 214,
+        "total_runs": 1705
+    },
+    {
+        "balls_faced": 2,
+        "batter": "Mashrafe Mortaza",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 1,
+        "batter": "Mayank Dagar",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 79,
+        "batter": "Misbah-ul-Haq",
+        "strike_rate": 148.1,
+        "total_boundaries": 16,
+        "total_runs": 117
+    },
+    {
+        "balls_faced": 9,
+        "batter": "Mohammad Ashraful",
+        "strike_rate": 22.22,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 6,
+        "batter": "Mohammad Asif",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 79,
+        "batter": "Mohammad Hafeez",
+        "strike_rate": 81.01,
+        "total_boundaries": 9,
+        "total_runs": 64
+    },
+    {
+        "balls_faced": 145,
+        "batter": "Mohammad Nabi",
+        "strike_rate": 148.28,
+        "total_boundaries": 29,
+        "total_runs": 215
+    },
+    {
+        "balls_faced": 77,
+        "batter": "Mohammed Shami",
+        "strike_rate": 96.1,
+        "total_boundaries": 8,
+        "total_runs": 74
+    },
+    {
+        "balls_faced": 114,
+        "batter": "Mohammed Siraj",
+        "strike_rate": 95.61,
+        "total_boundaries": 14,
+        "total_runs": 109
+    },
+    {
+        "balls_faced": 2,
+        "batter": "Mohit Rathee",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 24,
+        "batter": "Mohsin Khan",
+        "strike_rate": 104.17,
+        "total_boundaries": 3,
+        "total_runs": 25
+    },
+    {
+        "balls_faced": 13,
+        "batter": "Mujeeb Ur Rahman",
+        "strike_rate": 92.31,
+        "total_boundaries": 2,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 6,
+        "batter": "Mukesh Choudhary",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 18,
+        "batter": "Mukesh Kumar",
+        "strike_rate": 55.56,
+        "total_boundaries": 0,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 23,
+        "batter": "Mustafizur Rahman",
+        "strike_rate": 56.52,
+        "total_boundaries": 1,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 146,
+        "batter": "N Jagadeesan",
+        "strike_rate": 110.96,
+        "total_boundaries": 23,
+        "total_runs": 162
+    },
+    {
+        "balls_faced": 1074,
+        "batter": "N Pooran",
+        "strike_rate": 164.71,
+        "total_boundaries": 240,
+        "total_runs": 1769
+    },
+    {
+        "balls_faced": 1914,
+        "batter": "N Rana",
+        "strike_rate": 136.94,
+        "total_boundaries": 363,
+        "total_runs": 2621
+    },
+    {
+        "balls_faced": 138,
+        "batter": "N Saini",
+        "strike_rate": 101.45,
+        "total_boundaries": 16,
+        "total_runs": 140
+    },
+    {
+        "balls_faced": 246,
+        "batter": "N Wadhera",
+        "strike_rate": 142.28,
+        "total_boundaries": 50,
+        "total_runs": 350
+    },
+    {
+        "balls_faced": 13,
+        "batter": "ND Doshi",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 21,
+        "batter": "NJ Maddinson",
+        "strike_rate": 95.24,
+        "total_boundaries": 4,
+        "total_runs": 20
+    },
+    {
+        "balls_faced": 1,
+        "batter": "NJ Rimmington",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 117,
+        "batter": "NK Patel",
+        "strike_rate": 103.42,
+        "total_boundaries": 15,
+        "total_runs": 121
+    },
+    {
+        "balls_faced": 21,
+        "batter": "NL McCullum",
+        "strike_rate": 123.81,
+        "total_boundaries": 1,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 298,
+        "batter": "NLTC Perera",
+        "strike_rate": 141.28,
+        "total_boundaries": 49,
+        "total_runs": 421
+    },
+    {
+        "balls_faced": 71,
+        "batter": "NM Coulter-Nile",
+        "strike_rate": 115.49,
+        "total_boundaries": 11,
+        "total_runs": 82
+    },
+    {
+        "balls_faced": 49,
+        "batter": "NS Naik",
+        "strike_rate": 63.27,
+        "total_boundaries": 2,
+        "total_runs": 31
+    },
+    {
+        "balls_faced": 25,
+        "batter": "NT Ellis",
+        "strike_rate": 76.0,
+        "total_boundaries": 1,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 1290,
+        "batter": "NV Ojha",
+        "strike_rate": 119.61,
+        "total_boundaries": 198,
+        "total_runs": 1543
+    },
+    {
+        "balls_faced": 76,
+        "batter": "Naman Dhir",
+        "strike_rate": 184.21,
+        "total_boundaries": 22,
+        "total_runs": 140
+    },
+    {
+        "balls_faced": 36,
+        "batter": "Navdeep Saini",
+        "strike_rate": 91.67,
+        "total_boundaries": 3,
+        "total_runs": 33
+    },
+    {
+        "balls_faced": 21,
+        "batter": "Naveen-ul-Haq",
+        "strike_rate": 85.71,
+        "total_boundaries": 2,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 211,
+        "batter": "Nithish Kumar Reddy",
+        "strike_rate": 143.6,
+        "total_boundaries": 36,
+        "total_runs": 303
+    },
+    {
+        "balls_faced": 18,
+        "batter": "Noor Ahmad",
+        "strike_rate": 72.22,
+        "total_boundaries": 2,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 376,
+        "batter": "OA Shah",
+        "strike_rate": 134.31,
+        "total_boundaries": 57,
+        "total_runs": 505
+    },
+    {
+        "balls_faced": 5,
+        "batter": "OC McCoy",
+        "strike_rate": 160.0,
+        "total_boundaries": 1,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 44,
+        "batter": "OF Smith",
+        "strike_rate": 115.91,
+        "total_boundaries": 6,
+        "total_runs": 51
+    },
+    {
+        "balls_faced": 14,
+        "batter": "P Awana",
+        "strike_rate": 35.71,
+        "total_boundaries": 0,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 6,
+        "batter": "P Chopra",
+        "strike_rate": 133.33,
+        "total_boundaries": 2,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 137,
+        "batter": "P Dogra",
+        "strike_rate": 92.7,
+        "total_boundaries": 9,
+        "total_runs": 127
+    },
+    {
+        "balls_faced": 32,
+        "batter": "P Dubey",
+        "strike_rate": 71.88,
+        "total_boundaries": 2,
+        "total_runs": 23
+    },
+    {
+        "balls_faced": 305,
+        "batter": "P Kumar",
+        "strike_rate": 110.82,
+        "total_boundaries": 39,
+        "total_runs": 338
+    },
+    {
+        "balls_faced": 280,
+        "batter": "P Negi",
+        "strike_rate": 130.0,
+        "total_boundaries": 43,
+        "total_runs": 364
+    },
+    {
+        "balls_faced": 2,
+        "batter": "P Parameswaran",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 24,
+        "batter": "P Ray Barman",
+        "strike_rate": 79.17,
+        "total_boundaries": 2,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 13,
+        "batter": "P Sahu",
+        "strike_rate": 146.15,
+        "total_boundaries": 2,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 508,
+        "batter": "P Simran Singh",
+        "strike_rate": 147.64,
+        "total_boundaries": 118,
+        "total_runs": 750
+    },
+    {
+        "balls_faced": 2285,
+        "batter": "PA Patel",
+        "strike_rate": 124.33,
+        "total_boundaries": 413,
+        "total_runs": 2841
+    },
+    {
+        "balls_faced": 160,
+        "batter": "PA Reddy",
+        "strike_rate": 102.5,
+        "total_boundaries": 17,
+        "total_runs": 164
+    },
+    {
+        "balls_faced": 184,
+        "batter": "PBB Rajapaksa",
+        "strike_rate": 150.0,
+        "total_boundaries": 37,
+        "total_runs": 276
+    },
+    {
+        "balls_faced": 408,
+        "batter": "PC Valthaty",
+        "strike_rate": 122.3,
+        "total_boundaries": 80,
+        "total_runs": 499
+    },
+    {
+        "balls_faced": 153,
+        "batter": "PD Collingwood",
+        "strike_rate": 132.68,
+        "total_boundaries": 22,
+        "total_runs": 203
+    },
+    {
+        "balls_faced": 360,
+        "batter": "PD Salt",
+        "strike_rate": 181.11,
+        "total_boundaries": 108,
+        "total_runs": 652
+    },
+    {
+        "balls_faced": 333,
+        "batter": "PJ Cummins",
+        "strike_rate": 153.15,
+        "total_boundaries": 67,
+        "total_runs": 510
+    },
+    {
+        "balls_faced": 43,
+        "batter": "PJ Sangwan",
+        "strike_rate": 60.47,
+        "total_boundaries": 1,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 235,
+        "batter": "PK Garg",
+        "strike_rate": 114.47,
+        "total_boundaries": 24,
+        "total_runs": 269
+    },
+    {
+        "balls_faced": 2,
+        "batter": "PM Sarvesh Kumar",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 71,
+        "batter": "PN Mankad",
+        "strike_rate": 136.62,
+        "total_boundaries": 15,
+        "total_runs": 97
+    },
+    {
+        "balls_faced": 542,
+        "batter": "PP Chawla",
+        "strike_rate": 114.94,
+        "total_boundaries": 76,
+        "total_runs": 623
+    },
+    {
+        "balls_faced": 40,
+        "batter": "PP Ojha",
+        "strike_rate": 40.0,
+        "total_boundaries": 0,
+        "total_runs": 16
+    },
+    {
+        "balls_faced": 1267,
+        "batter": "PP Shaw",
+        "strike_rate": 149.17,
+        "total_boundaries": 299,
+        "total_runs": 1890
+    },
+    {
+        "balls_faced": 85,
+        "batter": "PR Shah",
+        "strike_rate": 107.06,
+        "total_boundaries": 11,
+        "total_runs": 91
+    },
+    {
+        "balls_faced": 12,
+        "batter": "PSP Handscomb",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 37,
+        "batter": "PV Tambe",
+        "strike_rate": 48.65,
+        "total_boundaries": 1,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 27,
+        "batter": "PVD Chameera",
+        "strike_rate": 159.26,
+        "total_boundaries": 6,
+        "total_runs": 43
+    },
+    {
+        "balls_faced": 73,
+        "batter": "PWH de Silva",
+        "strike_rate": 98.63,
+        "total_boundaries": 8,
+        "total_runs": 72
+    },
+    {
+        "balls_faced": 12,
+        "batter": "Pankaj Singh",
+        "strike_rate": 58.33,
+        "total_boundaries": 0,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 19,
+        "batter": "Parvez Rasool",
+        "strike_rate": 89.47,
+        "total_boundaries": 1,
+        "total_runs": 17
+    },
+    {
+        "balls_faced": 2309,
+        "batter": "Q de Kock",
+        "strike_rate": 136.51,
+        "total_boundaries": 438,
+        "total_runs": 3152
+    },
+    {
+        "balls_faced": 660,
+        "batter": "R Ashwin",
+        "strike_rate": 121.06,
+        "total_boundaries": 89,
+        "total_runs": 799
+    },
+    {
+        "balls_faced": 277,
+        "batter": "R Bhatia",
+        "strike_rate": 123.47,
+        "total_boundaries": 37,
+        "total_runs": 342
+    },
+    {
+        "balls_faced": 17,
+        "batter": "R Bishnoi",
+        "strike_rate": 111.76,
+        "total_boundaries": 3,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 184,
+        "batter": "R Dhawan",
+        "strike_rate": 114.13,
+        "total_boundaries": 25,
+        "total_runs": 210
+    },
+    {
+        "balls_faced": 1844,
+        "batter": "R Dravid",
+        "strike_rate": 117.84,
+        "total_boundaries": 297,
+        "total_runs": 2173
+    },
+    {
+        "balls_faced": 167,
+        "batter": "R McLaren",
+        "strike_rate": 95.21,
+        "total_boundaries": 15,
+        "total_runs": 159
+    },
+    {
+        "balls_faced": 5,
+        "batter": "R Ninan",
+        "strike_rate": 60.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 855,
+        "batter": "R Parag",
+        "strike_rate": 137.19,
+        "total_boundaries": 144,
+        "total_runs": 1173
+    },
+    {
+        "balls_faced": 241,
+        "batter": "R Powell",
+        "strike_rate": 149.38,
+        "total_boundaries": 49,
+        "total_runs": 360
+    },
+    {
+        "balls_faced": 47,
+        "batter": "R Rampaul",
+        "strike_rate": 106.38,
+        "total_boundaries": 5,
+        "total_runs": 50
+    },
+    {
+        "balls_faced": 136,
+        "batter": "R Ravindra",
+        "strike_rate": 160.29,
+        "total_boundaries": 33,
+        "total_runs": 218
+    },
+    {
+        "balls_faced": 5,
+        "batter": "R Sai Kishore",
+        "strike_rate": 260.0,
+        "total_boundaries": 2,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 2,
+        "batter": "R Sanjay Yadav",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 222,
+        "batter": "R Sathish",
+        "strike_rate": 121.17,
+        "total_boundaries": 28,
+        "total_runs": 269
+    },
+    {
+        "balls_faced": 72,
+        "batter": "R Sharma",
+        "strike_rate": 91.67,
+        "total_boundaries": 8,
+        "total_runs": 66
+    },
+    {
+        "balls_faced": 60,
+        "batter": "R Shepherd",
+        "strike_rate": 191.67,
+        "total_boundaries": 17,
+        "total_runs": 115
+    },
+    {
+        "balls_faced": 23,
+        "batter": "R Shukla",
+        "strike_rate": 82.61,
+        "total_boundaries": 2,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 728,
+        "batter": "R Tewatia",
+        "strike_rate": 138.87,
+        "total_boundaries": 131,
+        "total_runs": 1011
+    },
+    {
+        "balls_faced": 267,
+        "batter": "R Vinay Kumar",
+        "strike_rate": 116.1,
+        "total_boundaries": 30,
+        "total_runs": 310
+    },
+    {
+        "balls_faced": 14,
+        "batter": "RA Bawa",
+        "strike_rate": 78.57,
+        "total_boundaries": 1,
+        "total_runs": 11
+    },
+    {
+        "balls_faced": 2219,
+        "batter": "RA Jadeja",
+        "strike_rate": 132.58,
+        "total_boundaries": 321,
+        "total_runs": 2942
+    },
+    {
+        "balls_faced": 1571,
+        "batter": "RA Tripathi",
+        "strike_rate": 140.87,
+        "total_boundaries": 302,
+        "total_runs": 2213
+    },
+    {
+        "balls_faced": 124,
+        "batter": "RD Chahar",
+        "strike_rate": 104.03,
+        "total_boundaries": 18,
+        "total_runs": 129
+    },
+    {
+        "balls_faced": 1716,
+        "batter": "RD Gaikwad",
+        "strike_rate": 138.23,
+        "total_boundaries": 307,
+        "total_runs": 2372
+    },
+    {
+        "balls_faced": 69,
+        "batter": "RE Levi",
+        "strike_rate": 120.29,
+        "total_boundaries": 14,
+        "total_runs": 83
+    },
+    {
+        "balls_faced": 139,
+        "batter": "RE van der Merwe",
+        "strike_rate": 114.39,
+        "total_boundaries": 19,
+        "total_runs": 159
+    },
+    {
+        "balls_faced": 2,
+        "batter": "RG More",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 4985,
+        "batter": "RG Sharma",
+        "strike_rate": 132.16,
+        "total_boundaries": 873,
+        "total_runs": 6588
+    },
+    {
+        "balls_faced": 1,
+        "batter": "RJ Gleeson",
+        "strike_rate": 200.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 110,
+        "batter": "RJ Harris",
+        "strike_rate": 105.45,
+        "total_boundaries": 9,
+        "total_runs": 116
+    },
+    {
+        "balls_faced": 28,
+        "batter": "RJ Peterson",
+        "strike_rate": 114.29,
+        "total_boundaries": 4,
+        "total_runs": 32
+    },
+    {
+        "balls_faced": 97,
+        "batter": "RJ Quiney",
+        "strike_rate": 106.19,
+        "total_boundaries": 15,
+        "total_runs": 103
+    },
+    {
+        "balls_faced": 6,
+        "batter": "RJW Topley",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 26,
+        "batter": "RK Bhui",
+        "strike_rate": 38.46,
+        "total_boundaries": 0,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 612,
+        "batter": "RK Singh",
+        "strike_rate": 143.63,
+        "total_boundaries": 111,
+        "total_runs": 879
+    },
+    {
+        "balls_faced": 490,
+        "batter": "RM Patidar",
+        "strike_rate": 162.86,
+        "total_boundaries": 105,
+        "total_runs": 798
+    },
+    {
+        "balls_faced": 229,
+        "batter": "RN ten Doeschate",
+        "strike_rate": 142.36,
+        "total_boundaries": 41,
+        "total_runs": 326
+    },
+    {
+        "balls_faced": 3,
+        "batter": "RP Meredith",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 71,
+        "batter": "RP Singh",
+        "strike_rate": 73.24,
+        "total_boundaries": 3,
+        "total_runs": 52
+    },
+    {
+        "balls_faced": 2,
+        "batter": "RR Bhatkal",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 2175,
+        "batter": "RR Pant",
+        "strike_rate": 150.85,
+        "total_boundaries": 450,
+        "total_runs": 3281
+    },
+    {
+        "balls_faced": 63,
+        "batter": "RR Powar",
+        "strike_rate": 106.35,
+        "total_boundaries": 7,
+        "total_runs": 67
+    },
+    {
+        "balls_faced": 18,
+        "batter": "RR Raje",
+        "strike_rate": 111.11,
+        "total_boundaries": 2,
+        "total_runs": 20
+    },
+    {
+        "balls_faced": 304,
+        "batter": "RR Rossouw",
+        "strike_rate": 154.93,
+        "total_boundaries": 70,
+        "total_runs": 471
+    },
+    {
+        "balls_faced": 74,
+        "batter": "RR Sarwan",
+        "strike_rate": 98.65,
+        "total_boundaries": 7,
+        "total_runs": 73
+    },
+    {
+        "balls_faced": 446,
+        "batter": "RS Bopara",
+        "strike_rate": 119.06,
+        "total_boundaries": 55,
+        "total_runs": 531
+    },
+    {
+        "balls_faced": 8,
+        "batter": "RS Gavaskar",
+        "strike_rate": 25.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 2,
+        "batter": "RS Sodhi",
+        "strike_rate": 200.0,
+        "total_boundaries": 1,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 123,
+        "batter": "RT Ponting",
+        "strike_rate": 73.98,
+        "total_boundaries": 7,
+        "total_runs": 91
+    },
+    {
+        "balls_faced": 48,
+        "batter": "RV Gomez",
+        "strike_rate": 104.17,
+        "total_boundaries": 6,
+        "total_runs": 50
+    },
+    {
+        "balls_faced": 72,
+        "batter": "RV Patel",
+        "strike_rate": 111.11,
+        "total_boundaries": 8,
+        "total_runs": 80
+    },
+    {
+        "balls_faced": 3708,
+        "batter": "RV Uthappa",
+        "strike_rate": 133.28,
+        "total_boundaries": 662,
+        "total_runs": 4942
+    },
+    {
+        "balls_faced": 208,
+        "batter": "Rahmanullah Gurbaz",
+        "strike_rate": 136.06,
+        "total_boundaries": 42,
+        "total_runs": 283
+    },
+    {
+        "balls_faced": 97,
+        "batter": "Ramandeep Singh",
+        "strike_rate": 169.07,
+        "total_boundaries": 20,
+        "total_runs": 164
+    },
+    {
+        "balls_faced": 323,
+        "batter": "Rashid Khan",
+        "strike_rate": 165.94,
+        "total_boundaries": 75,
+        "total_runs": 536
+    },
+    {
+        "balls_faced": 39,
+        "batter": "Rasikh Salam",
+        "strike_rate": 102.56,
+        "total_boundaries": 5,
+        "total_runs": 40
+    },
+    {
+        "balls_faced": 49,
+        "batter": "Ravi Bishnoi",
+        "strike_rate": 65.31,
+        "total_boundaries": 2,
+        "total_runs": 32
+    },
+    {
+        "balls_faced": 108,
+        "batter": "S Anirudha",
+        "strike_rate": 125.93,
+        "total_boundaries": 16,
+        "total_runs": 136
+    },
+    {
+        "balls_faced": 54,
+        "batter": "S Aravind",
+        "strike_rate": 109.26,
+        "total_boundaries": 7,
+        "total_runs": 59
+    },
+    {
+        "balls_faced": 23,
+        "batter": "S Badree",
+        "strike_rate": 56.52,
+        "total_boundaries": 0,
+        "total_runs": 13
+    },
+    {
+        "balls_faced": 1181,
+        "batter": "S Badrinath",
+        "strike_rate": 121.76,
+        "total_boundaries": 182,
+        "total_runs": 1438
+    },
+    {
+        "balls_faced": 31,
+        "batter": "S Chanderpaul",
+        "strike_rate": 80.65,
+        "total_boundaries": 4,
+        "total_runs": 25
+    },
+    {
+        "balls_faced": 5213,
+        "batter": "S Dhawan",
+        "strike_rate": 129.22,
+        "total_boundaries": 915,
+        "total_runs": 6736
+    },
+    {
+        "balls_faced": 1006,
+        "batter": "S Dube",
+        "strike_rate": 149.01,
+        "total_boundaries": 187,
+        "total_runs": 1499
+    },
+    {
+        "balls_faced": 167,
+        "batter": "S Gopal",
+        "strike_rate": 107.78,
+        "total_boundaries": 21,
+        "total_runs": 180
+    },
+    {
+        "balls_faced": 36,
+        "batter": "S Kaul",
+        "strike_rate": 55.56,
+        "total_boundaries": 1,
+        "total_runs": 20
+    },
+    {
+        "balls_faced": 1,
+        "batter": "S Kaushik",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 9,
+        "batter": "S Ladda",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 1,
+        "batter": "S Lamichhane",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 85,
+        "batter": "S Nadeem",
+        "strike_rate": 45.88,
+        "total_boundaries": 2,
+        "total_runs": 39
+    },
+    {
+        "balls_faced": 27,
+        "batter": "S Narwal",
+        "strike_rate": 137.04,
+        "total_boundaries": 6,
+        "total_runs": 37
+    },
+    {
+        "balls_faced": 77,
+        "batter": "S Rana",
+        "strike_rate": 112.99,
+        "total_boundaries": 10,
+        "total_runs": 87
+    },
+    {
+        "balls_faced": 4,
+        "batter": "S Randiv",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 283,
+        "batter": "S Sohal",
+        "strike_rate": 130.04,
+        "total_boundaries": 52,
+        "total_runs": 368
+    },
+    {
+        "balls_faced": 50,
+        "batter": "S Sreesanth",
+        "strike_rate": 68.0,
+        "total_boundaries": 6,
+        "total_runs": 34
+    },
+    {
+        "balls_faced": 35,
+        "batter": "S Sriram",
+        "strike_rate": 88.57,
+        "total_boundaries": 3,
+        "total_runs": 31
+    },
+    {
+        "balls_faced": 4,
+        "batter": "S Tyagi",
+        "strike_rate": 75.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 108,
+        "batter": "S Vidyut",
+        "strike_rate": 134.26,
+        "total_boundaries": 24,
+        "total_runs": 145
+    },
+    {
+        "balls_faced": 17,
+        "batter": "SA Abbott",
+        "strike_rate": 129.41,
+        "total_boundaries": 3,
+        "total_runs": 22
+    },
+    {
+        "balls_faced": 327,
+        "batter": "SA Asnodkar",
+        "strike_rate": 129.36,
+        "total_boundaries": 66,
+        "total_runs": 423
+    },
+    {
+        "balls_faced": 2428,
+        "batter": "SA Yadav",
+        "strike_rate": 147.24,
+        "total_boundaries": 512,
+        "total_runs": 3575
+    },
+    {
+        "balls_faced": 55,
+        "batter": "SB Bangar",
+        "strike_rate": 89.09,
+        "total_boundaries": 4,
+        "total_runs": 49
+    },
+    {
+        "balls_faced": 19,
+        "batter": "SB Dubey",
+        "strike_rate": 173.68,
+        "total_boundaries": 5,
+        "total_runs": 33
+    },
+    {
+        "balls_faced": 29,
+        "batter": "SB Jakati",
+        "strike_rate": 96.55,
+        "total_boundaries": 3,
+        "total_runs": 28
+    },
+    {
+        "balls_faced": 14,
+        "batter": "SB Joshi",
+        "strike_rate": 42.86,
+        "total_boundaries": 0,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 129,
+        "batter": "SB Styris",
+        "strike_rate": 101.55,
+        "total_boundaries": 13,
+        "total_runs": 131
+    },
+    {
+        "balls_faced": 3,
+        "batter": "SB Wagh",
+        "strike_rate": 66.67,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 1230,
+        "batter": "SC Ganguly",
+        "strike_rate": 109.19,
+        "total_boundaries": 178,
+        "total_runs": 1343
+    },
+    {
+        "balls_faced": 87,
+        "batter": "SD Chitnis",
+        "strike_rate": 106.9,
+        "total_boundaries": 11,
+        "total_runs": 93
+    },
+    {
+        "balls_faced": 122,
+        "batter": "SD Hope",
+        "strike_rate": 150.0,
+        "total_boundaries": 24,
+        "total_runs": 183
+    },
+    {
+        "balls_faced": 13,
+        "batter": "SD Lad",
+        "strike_rate": 115.38,
+        "total_boundaries": 2,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 2,
+        "batter": "SE Bond",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 1820,
+        "batter": "SE Marsh",
+        "strike_rate": 135.88,
+        "total_boundaries": 344,
+        "total_runs": 2473
+    },
+    {
+        "balls_faced": 100,
+        "batter": "SE Rutherford",
+        "strike_rate": 106.0,
+        "total_boundaries": 11,
+        "total_runs": 106
+    },
+    {
+        "balls_faced": 6,
+        "batter": "SH Johnson",
+        "strike_rate": 100.0,
+        "total_boundaries": 1,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 5,
+        "batter": "SJ Srivastava",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 3967,
+        "batter": "SK Raina",
+        "strike_rate": 138.97,
+        "total_boundaries": 707,
+        "total_runs": 5513
+    },
+    {
+        "balls_faced": 58,
+        "batter": "SK Trivedi",
+        "strike_rate": 72.41,
+        "total_boundaries": 4,
+        "total_runs": 42
+    },
+    {
+        "balls_faced": 208,
+        "batter": "SK Warne",
+        "strike_rate": 94.71,
+        "total_boundaries": 20,
+        "total_runs": 197
+    },
+    {
+        "balls_faced": 96,
+        "batter": "SL Malinga",
+        "strike_rate": 91.67,
+        "total_boundaries": 11,
+        "total_runs": 88
+    },
+    {
+        "balls_faced": 637,
+        "batter": "SM Curran",
+        "strike_rate": 137.21,
+        "total_boundaries": 109,
+        "total_runs": 874
+    },
+    {
+        "balls_faced": 10,
+        "batter": "SM Harwood",
+        "strike_rate": 80.0,
+        "total_boundaries": 0,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 178,
+        "batter": "SM Katich",
+        "strike_rate": 134.83,
+        "total_boundaries": 34,
+        "total_runs": 240
+    },
+    {
+        "balls_faced": 109,
+        "batter": "SM Pollock",
+        "strike_rate": 134.86,
+        "total_boundaries": 20,
+        "total_runs": 147
+    },
+    {
+        "balls_faced": 16,
+        "batter": "SMSM Senanayake",
+        "strike_rate": 62.5,
+        "total_boundaries": 0,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 438,
+        "batter": "SN Khan",
+        "strike_rate": 131.96,
+        "total_boundaries": 76,
+        "total_runs": 578
+    },
+    {
+        "balls_faced": 218,
+        "batter": "SN Thakur",
+        "strike_rate": 140.37,
+        "total_boundaries": 40,
+        "total_runs": 306
+    },
+    {
+        "balls_faced": 792,
+        "batter": "SO Hetmyer",
+        "strike_rate": 156.69,
+        "total_boundaries": 158,
+        "total_runs": 1241
+    },
+    {
+        "balls_faced": 158,
+        "batter": "SP Fleming",
+        "strike_rate": 121.52,
+        "total_boundaries": 29,
+        "total_runs": 192
+    },
+    {
+        "balls_faced": 291,
+        "batter": "SP Goswami",
+        "strike_rate": 100.34,
+        "total_boundaries": 35,
+        "total_runs": 292
+    },
+    {
+        "balls_faced": 57,
+        "batter": "SP Jackson",
+        "strike_rate": 107.02,
+        "total_boundaries": 6,
+        "total_runs": 61
+    },
+    {
+        "balls_faced": 887,
+        "batter": "SP Narine",
+        "strike_rate": 172.72,
+        "total_boundaries": 261,
+        "total_runs": 1532
+    },
+    {
+        "balls_faced": 1906,
+        "batter": "SPD Smith",
+        "strike_rate": 129.12,
+        "total_boundaries": 280,
+        "total_runs": 2461
+    },
+    {
+        "balls_faced": 1893,
+        "batter": "SR Tendulkar",
+        "strike_rate": 123.14,
+        "total_boundaries": 325,
+        "total_runs": 2331
+    },
+    {
+        "balls_faced": 2766,
+        "batter": "SR Watson",
+        "strike_rate": 139.7,
+        "total_boundaries": 564,
+        "total_runs": 3864
+    },
+    {
+        "balls_faced": 2,
+        "batter": "SS Cottrell",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 2420,
+        "batter": "SS Iyer",
+        "strike_rate": 129.05,
+        "total_boundaries": 384,
+        "total_runs": 3123
+    },
+    {
+        "balls_faced": 102,
+        "batter": "SS Prabhudessai",
+        "strike_rate": 123.53,
+        "total_boundaries": 15,
+        "total_runs": 126
+    },
+    {
+        "balls_faced": 7,
+        "batter": "SS Shaikh",
+        "strike_rate": 85.71,
+        "total_boundaries": 1,
+        "total_runs": 6
+    },
+    {
+        "balls_faced": 1220,
+        "batter": "SS Tiwary",
+        "strike_rate": 122.05,
+        "total_boundaries": 161,
+        "total_runs": 1489
+    },
+    {
+        "balls_faced": 514,
+        "batter": "ST Jayasuriya",
+        "strike_rate": 147.86,
+        "total_boundaries": 122,
+        "total_runs": 760
+    },
+    {
+        "balls_faced": 670,
+        "batter": "STR Binny",
+        "strike_rate": 131.19,
+        "total_boundaries": 101,
+        "total_runs": 879
+    },
+    {
+        "balls_faced": 3128,
+        "batter": "SV Samson",
+        "strike_rate": 141.05,
+        "total_boundaries": 558,
+        "total_runs": 4412
+    },
+    {
+        "balls_faced": 375,
+        "batter": "SW Billings",
+        "strike_rate": 132.53,
+        "total_boundaries": 59,
+        "total_runs": 497
+    },
+    {
+        "balls_faced": 26,
+        "batter": "SW Tait",
+        "strike_rate": 88.46,
+        "total_boundaries": 2,
+        "total_runs": 23
+    },
+    {
+        "balls_faced": 1,
+        "batter": "SZ Mulani",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 114,
+        "batter": "Sachin Baby",
+        "strike_rate": 124.56,
+        "total_boundaries": 16,
+        "total_runs": 142
+    },
+    {
+        "balls_faced": 155,
+        "batter": "Salman Butt",
+        "strike_rate": 123.87,
+        "total_boundaries": 32,
+        "total_runs": 192
+    },
+    {
+        "balls_faced": 43,
+        "batter": "Sameer Rizvi",
+        "strike_rate": 118.6,
+        "total_boundaries": 6,
+        "total_runs": 51
+    },
+    {
+        "balls_faced": 67,
+        "batter": "Sandeep Sharma",
+        "strike_rate": 79.1,
+        "total_boundaries": 4,
+        "total_runs": 53
+    },
+    {
+        "balls_faced": 20,
+        "batter": "Sanvir Singh",
+        "strike_rate": 125.0,
+        "total_boundaries": 3,
+        "total_runs": 25
+    },
+    {
+        "balls_faced": 15,
+        "batter": "Saurav Chauhan",
+        "strike_rate": 120.0,
+        "total_boundaries": 2,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 427,
+        "batter": "Shahbaz Ahmed",
+        "strike_rate": 125.29,
+        "total_boundaries": 53,
+        "total_runs": 535
+    },
+    {
+        "balls_faced": 45,
+        "batter": "Shahid Afridi",
+        "strike_rate": 180.0,
+        "total_boundaries": 13,
+        "total_runs": 81
+    },
+    {
+        "balls_faced": 624,
+        "batter": "Shakib Al Hasan",
+        "strike_rate": 126.28,
+        "total_boundaries": 93,
+        "total_runs": 788
+    },
+    {
+        "balls_faced": 255,
+        "batter": "Shashank Singh",
+        "strike_rate": 165.88,
+        "total_boundaries": 58,
+        "total_runs": 423
+    },
+    {
+        "balls_faced": 55,
+        "batter": "Shivam Mavi",
+        "strike_rate": 92.73,
+        "total_boundaries": 6,
+        "total_runs": 51
+    },
+    {
+        "balls_faced": 3,
+        "batter": "Shivam Sharma",
+        "strike_rate": 166.67,
+        "total_boundaries": 1,
+        "total_runs": 5
+    },
+    {
+        "balls_faced": 3,
+        "batter": "Shivam Singh",
+        "strike_rate": 66.67,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 6,
+        "batter": "Shoaib Ahmed",
+        "strike_rate": 16.67,
+        "total_boundaries": 0,
+        "total_runs": 1
+    },
+    {
+        "balls_faced": 7,
+        "batter": "Shoaib Akhtar",
+        "strike_rate": 28.57,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 45,
+        "batter": "Shoaib Malik",
+        "strike_rate": 113.33,
+        "total_boundaries": 5,
+        "total_runs": 51
+    },
+    {
+        "balls_faced": 2344,
+        "batter": "Shubman Gill",
+        "strike_rate": 136.73,
+        "total_boundaries": 403,
+        "total_runs": 3205
+    },
+    {
+        "balls_faced": 134,
+        "batter": "Sikandar Raza",
+        "strike_rate": 135.82,
+        "total_boundaries": 20,
+        "total_runs": 182
+    },
+    {
+        "balls_faced": 8,
+        "batter": "Simarjeet Singh",
+        "strike_rate": 87.5,
+        "total_boundaries": 0,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 28,
+        "batter": "Sohail Tanvir",
+        "strike_rate": 125.0,
+        "total_boundaries": 4,
+        "total_runs": 35
+    },
+    {
+        "balls_faced": 21,
+        "batter": "Sumit Kumar",
+        "strike_rate": 85.71,
+        "total_boundaries": 3,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 1,
+        "batter": "Sunny Gupta",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 30,
+        "batter": "Sunny Singh",
+        "strike_rate": 143.33,
+        "total_boundaries": 7,
+        "total_runs": 43
+    },
+    {
+        "balls_faced": 44,
+        "batter": "Swapnil Singh",
+        "strike_rate": 115.91,
+        "total_boundaries": 6,
+        "total_runs": 51
+    },
+    {
+        "balls_faced": 20,
+        "batter": "T Banton",
+        "strike_rate": 90.0,
+        "total_boundaries": 2,
+        "total_runs": 18
+    },
+    {
+        "balls_faced": 15,
+        "batter": "T Henderson",
+        "strike_rate": 73.33,
+        "total_boundaries": 1,
+        "total_runs": 11
+    },
+    {
+        "balls_faced": 53,
+        "batter": "T Kohler-Cadmore",
+        "strike_rate": 90.57,
+        "total_boundaries": 8,
+        "total_runs": 48
+    },
+    {
+        "balls_faced": 19,
+        "batter": "T Kohli",
+        "strike_rate": 57.89,
+        "total_boundaries": 1,
+        "total_runs": 11
+    },
+    {
+        "balls_faced": 5,
+        "batter": "T Natarajan",
+        "strike_rate": 60.0,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 4,
+        "batter": "T Shamsi",
+        "strike_rate": 50.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 228,
+        "batter": "T Stubbs",
+        "strike_rate": 175.0,
+        "total_boundaries": 51,
+        "total_runs": 399
+    },
+    {
+        "balls_faced": 26,
+        "batter": "T Taibu",
+        "strike_rate": 119.23,
+        "total_boundaries": 3,
+        "total_runs": 31
+    },
+    {
+        "balls_faced": 18,
+        "batter": "T Thushara",
+        "strike_rate": 66.67,
+        "total_boundaries": 0,
+        "total_runs": 12
+    },
+    {
+        "balls_faced": 78,
+        "batter": "TA Boult",
+        "strike_rate": 106.41,
+        "total_boundaries": 8,
+        "total_runs": 83
+    },
+    {
+        "balls_faced": 24,
+        "batter": "TD Paine",
+        "strike_rate": 41.67,
+        "total_boundaries": 0,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 106,
+        "batter": "TG Southee",
+        "strike_rate": 113.21,
+        "total_boundaries": 12,
+        "total_runs": 120
+    },
+    {
+        "balls_faced": 379,
+        "batter": "TH David",
+        "strike_rate": 172.03,
+        "total_boundaries": 83,
+        "total_runs": 652
+    },
+    {
+        "balls_faced": 105,
+        "batter": "TK Curran",
+        "strike_rate": 120.95,
+        "total_boundaries": 13,
+        "total_runs": 127
+    },
+    {
+        "balls_faced": 22,
+        "batter": "TL Seifert",
+        "strike_rate": 118.18,
+        "total_boundaries": 4,
+        "total_runs": 26
+    },
+    {
+        "balls_faced": 562,
+        "batter": "TL Suman",
+        "strike_rate": 120.28,
+        "total_boundaries": 81,
+        "total_runs": 676
+    },
+    {
+        "balls_faced": 971,
+        "batter": "TM Dilshan",
+        "strike_rate": 117.2,
+        "total_boundaries": 161,
+        "total_runs": 1138
+    },
+    {
+        "balls_faced": 436,
+        "batter": "TM Head",
+        "strike_rate": 175.92,
+        "total_boundaries": 115,
+        "total_runs": 767
+    },
+    {
+        "balls_faced": 11,
+        "batter": "TM Srivastava",
+        "strike_rate": 72.73,
+        "total_boundaries": 0,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 56,
+        "batter": "TR Birt",
+        "strike_rate": 133.93,
+        "total_boundaries": 11,
+        "total_runs": 75
+    },
+    {
+        "balls_faced": 13,
+        "batter": "TS Mills",
+        "strike_rate": 61.54,
+        "total_boundaries": 1,
+        "total_runs": 8
+    },
+    {
+        "balls_faced": 13,
+        "batter": "TU Deshpande",
+        "strike_rate": 161.54,
+        "total_boundaries": 3,
+        "total_runs": 21
+    },
+    {
+        "balls_faced": 31,
+        "batter": "Tanush Kotian",
+        "strike_rate": 77.42,
+        "total_boundaries": 3,
+        "total_runs": 24
+    },
+    {
+        "balls_faced": 774,
+        "batter": "Tilak Varma",
+        "strike_rate": 149.1,
+        "total_boundaries": 148,
+        "total_runs": 1154
+    },
+    {
+        "balls_faced": 1,
+        "batter": "U Kaul",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 14,
+        "batter": "UA Birla",
+        "strike_rate": 50.0,
+        "total_boundaries": 1,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 292,
+        "batter": "UBT Chand",
+        "strike_rate": 102.74,
+        "total_boundaries": 41,
+        "total_runs": 300
+    },
+    {
+        "balls_faced": 98,
+        "batter": "UT Khawaja",
+        "strike_rate": 129.59,
+        "total_boundaries": 17,
+        "total_runs": 127
+    },
+    {
+        "balls_faced": 198,
+        "batter": "UT Yadav",
+        "strike_rate": 105.05,
+        "total_boundaries": 25,
+        "total_runs": 208
+    },
+    {
+        "balls_faced": 17,
+        "batter": "Umar Gul",
+        "strike_rate": 229.41,
+        "total_boundaries": 6,
+        "total_runs": 39
+    },
+    {
+        "balls_faced": 14,
+        "batter": "Umran Malik",
+        "strike_rate": 121.43,
+        "total_boundaries": 2,
+        "total_runs": 17
+    },
+    {
+        "balls_faced": 5995,
+        "batter": "V Kohli",
+        "strike_rate": 133.36,
+        "total_boundaries": 979,
+        "total_runs": 7995
+    },
+    {
+        "balls_faced": 1,
+        "batter": "V Pratap Singh",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 1691,
+        "batter": "V Sehwag",
+        "strike_rate": 160.44,
+        "total_boundaries": 438,
+        "total_runs": 2713
+    },
+    {
+        "balls_faced": 841,
+        "batter": "V Shankar",
+        "strike_rate": 131.99,
+        "total_boundaries": 124,
+        "total_runs": 1110
+    },
+    {
+        "balls_faced": 5,
+        "batter": "V Viyaskanth",
+        "strike_rate": 140.0,
+        "total_boundaries": 0,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 16,
+        "batter": "VG Arora",
+        "strike_rate": 56.25,
+        "total_boundaries": 0,
+        "total_runs": 9
+    },
+    {
+        "balls_faced": 26,
+        "batter": "VH Zol",
+        "strike_rate": 111.54,
+        "total_boundaries": 4,
+        "total_runs": 29
+    },
+    {
+        "balls_faced": 71,
+        "batter": "VR Aaron",
+        "strike_rate": 69.01,
+        "total_boundaries": 4,
+        "total_runs": 49
+    },
+    {
+        "balls_faced": 949,
+        "batter": "VR Iyer",
+        "strike_rate": 139.09,
+        "total_boundaries": 181,
+        "total_runs": 1320
+    },
+    {
+        "balls_faced": 2,
+        "batter": "VRV Singh",
+        "strike_rate": 200.0,
+        "total_boundaries": 1,
+        "total_runs": 4
+    },
+    {
+        "balls_faced": 6,
+        "batter": "VS Malik",
+        "strike_rate": 116.67,
+        "total_boundaries": 1,
+        "total_runs": 7
+    },
+    {
+        "balls_faced": 2,
+        "batter": "VS Yeligati",
+        "strike_rate": 100.0,
+        "total_boundaries": 0,
+        "total_runs": 2
+    },
+    {
+        "balls_faced": 260,
+        "batter": "VVS Laxman",
+        "strike_rate": 106.15,
+        "total_boundaries": 37,
+        "total_runs": 276
+    },
+    {
+        "balls_faced": 26,
+        "batter": "VY Mahesh",
+        "strike_rate": 57.69,
+        "total_boundaries": 0,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 12,
+        "batter": "Vijaykumar Vyshak",
+        "strike_rate": 116.67,
+        "total_boundaries": 1,
+        "total_runs": 14
+    },
+    {
+        "balls_faced": 25,
+        "batter": "Virat Singh",
+        "strike_rate": 60.0,
+        "total_boundaries": 1,
+        "total_runs": 15
+    },
+    {
+        "balls_faced": 55,
+        "batter": "Vishnu Vinod",
+        "strike_rate": 100.0,
+        "total_boundaries": 6,
+        "total_runs": 55
+    },
+    {
+        "balls_faced": 45,
+        "batter": "Vivrant Sharma",
+        "strike_rate": 153.33,
+        "total_boundaries": 11,
+        "total_runs": 69
+    },
+    {
+        "balls_faced": 120,
+        "batter": "W Jaffer",
+        "strike_rate": 108.33,
+        "total_boundaries": 17,
+        "total_runs": 130
+    },
+    {
+        "balls_faced": 73,
+        "batter": "WA Mota",
+        "strike_rate": 76.71,
+        "total_boundaries": 2,
+        "total_runs": 56
+    },
+    {
+        "balls_faced": 77,
+        "batter": "WD Parnell",
+        "strike_rate": 84.42,
+        "total_boundaries": 5,
+        "total_runs": 65
+    },
+    {
+        "balls_faced": 127,
+        "batter": "WG Jacks",
+        "strike_rate": 176.38,
+        "total_boundaries": 33,
+        "total_runs": 224
+    },
+    {
+        "balls_faced": 2243,
+        "batter": "WP Saha",
+        "strike_rate": 130.58,
+        "total_boundaries": 382,
+        "total_runs": 2929
+    },
+    {
+        "balls_faced": 70,
+        "batter": "WPUJC Vaas",
+        "strike_rate": 107.14,
+        "total_boundaries": 4,
+        "total_runs": 75
+    },
+    {
+        "balls_faced": 317,
+        "batter": "Washington Sundar",
+        "strike_rate": 118.93,
+        "total_boundaries": 41,
+        "total_runs": 377
+    },
+    {
+        "balls_faced": 17,
+        "batter": "X Thalaivan Sargunam",
+        "strike_rate": 58.82,
+        "total_boundaries": 0,
+        "total_runs": 10
+    },
+    {
+        "balls_faced": 17,
+        "batter": "Y Gnaneswara Rao",
+        "strike_rate": 111.76,
+        "total_boundaries": 3,
+        "total_runs": 19
+    },
+    {
+        "balls_faced": 249,
+        "batter": "Y Nagar",
+        "strike_rate": 114.46,
+        "total_boundaries": 29,
+        "total_runs": 285
+    },
+    {
+        "balls_faced": 1,
+        "batter": "Y Prithvi Raj",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 812,
+        "batter": "Y Venugopal Rao",
+        "strike_rate": 120.69,
+        "total_boundaries": 113,
+        "total_runs": 980
+    },
+    {
+        "balls_faced": 1045,
+        "batter": "YBK Jaiswal",
+        "strike_rate": 152.63,
+        "total_boundaries": 261,
+        "total_runs": 1595
+    },
+    {
+        "balls_faced": 2196,
+        "batter": "YK Pathan",
+        "strike_rate": 146.17,
+        "total_boundaries": 424,
+        "total_runs": 3210
+    },
+    {
+        "balls_faced": 84,
+        "batter": "YS Chahal",
+        "strike_rate": 44.05,
+        "total_boundaries": 0,
+        "total_runs": 37
+    },
+    {
+        "balls_faced": 23,
+        "batter": "YV Dhull",
+        "strike_rate": 69.57,
+        "total_boundaries": 1,
+        "total_runs": 16
+    },
+    {
+        "balls_faced": 171,
+        "batter": "YV Takawale",
+        "strike_rate": 111.7,
+        "total_boundaries": 29,
+        "total_runs": 191
+    },
+    {
+        "balls_faced": 1,
+        "batter": "Yash Dayal",
+        "strike_rate": 0.0,
+        "total_boundaries": 0,
+        "total_runs": 0
+    },
+    {
+        "balls_faced": 65,
+        "batter": "Yashpal Singh",
+        "strike_rate": 72.31,
+        "total_boundaries": 5,
+        "total_runs": 47
+    },
+    {
+        "balls_faced": 7,
+        "batter": "Younis Khan",
+        "strike_rate": 42.86,
+        "total_boundaries": 0,
+        "total_runs": 3
+    },
+    {
+        "balls_faced": 16,
+        "batter": "Yudhvir Singh",
+        "strike_rate": 137.5,
+        "total_boundaries": 3,
+        "total_runs": 22
+    },
+    {
+        "balls_faced": 2089,
+        "batter": "Yuvraj Singh",
+        "strike_rate": 131.26,
+        "total_boundaries": 365,
+        "total_runs": 2742
+    },
+    {
+        "balls_faced": 137,
+        "batter": "Z Khan",
+        "strike_rate": 84.67,
+        "total_boundaries": 13,
+        "total_runs": 116
+    }
+]

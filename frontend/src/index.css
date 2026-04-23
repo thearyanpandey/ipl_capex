@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;900&display=swap');
+
+@import "tailwindcss";
+
+/* All your theme config lives here now — replaces tailwind.config.js */
+@theme {
+  /* Fonts */
+  --font-sans: 'Inter', 'Helvetica', 'Arial', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+
+  /* Custom colors */
+  --color-wise-black: #0e0f0c;
+  --color-wise-green: #9fe870;
+  --color-wise-darkgreen: #163300;
+  --color-wise-light: #e8ebe6;
+  --color-wise-gray: #868685;
+  --color-slate-850: #1a202c;
+
+  /* Custom shadow */
+  --shadow-wise-ring: rgba(14,15,12,0.12) 0px 0px 0px 1px;
+}
+
+html {
+  font-feature-settings: "calt" 1;
+  background-color: #ffffff;
+  color: #0e0f0c;
+}
+
+/* Your custom variables */
+:root {
+  --bg-color: #f4f6f8;
+  --text-color: #111827;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  overflow-x: hidden;
+  font-family: var(--font-sans);
+}
+
+/* Hide scrollbar */
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}

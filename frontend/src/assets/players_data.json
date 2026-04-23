@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Andre Russell", "runs": 2262, "balls": 1298, "sr": 174.26, "boundaries": 345 },
+  { "id": 2, "name": "Sunil Narine", "runs": 1046, "balls": 634, "sr": 164.98, "boundaries": 182 },
+  { "id": 3, "name": "Heinrich Klaasen", "runs": 514, "balls": 311, "sr": 165.27, "boundaries": 68 },
+  { "id": 4, "name": "Liam Livingstone", "runs": 828, "balls": 501, "sr": 165.26, "boundaries": 112 },
+  { "id": 5, "name": "Glenn Maxwell", "runs": 2719, "balls": 1724, "sr": 157.71, "boundaries": 366 },
+  { "id": 6, "name": "Nicholas Pooran", "runs": 1270, "balls": 808, "sr": 157.17, "boundaries": 165 },
+  { "id": 7, "name": "Virender Sehwag", "runs": 2728, "balls": 1755, "sr": 155.44, "boundaries": 440 },
+  { "id": 8, "name": "AB de Villiers", "runs": 5162, "balls": 3403, "sr": 151.68, "boundaries": 665 }
+]

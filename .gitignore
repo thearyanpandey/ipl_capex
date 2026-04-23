@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.env
+
+# Python & Jupyter Caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Massive Datasets & Databases (DO NOT PUSH TO GITHUB)
+matches.csv
+deliveries.csv
+*.db
+*.sqlite
+*.sqbpro
+
+# Excel Temp Files
+~$*.xlsx
+*.xltx
+
+# Note: We are allowing Top_Target_Players.csv to be pushed 
+# because it is small and serves as proof of your SQL output.
